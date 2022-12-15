@@ -1,0 +1,2630 @@
+"","from_country_code","to_country_code","from_country","to_country","weight"
+"1","AT","AD","Austria","Andorra",1.826
+"2","AT","AE","Austria","United Arab Emirates",290.848
+"3","AT","AF","Austria","Afghanistan",0.271
+"4","AT","AL","Austria","Albania",2156.553
+"5","AT","AM","Austria","Armenia",59.991
+"6","AT","AR","Austria","Argentina",4.156
+"7","AT","AU","Austria","Australia",470.663
+"8","AT","AW","Austria","Aruba",0.001
+"9","AT","AZ","Austria","Azerbaijan",94.304
+"10","AT","BA","Austria","Bosnia and Herzegovina",4706.918
+"11","AT","BB","Austria","Barbados",1.422
+"12","AT","BD","Austria","Bangladesh",30.011
+"13","AT","BE","Austria","Belgium",2139.378
+"14","AT","BF","Austria","Burkina Faso",0.003
+"15","AT","BG","Austria","Bulgaria",6368.021
+"16","AT","BH","Austria","Bahrain",97.964
+"17","AT","BI","Austria","Burundi",25.055
+"18","AT","BJ","Austria","Benin",0.001
+"19","AT","BM","Austria","Bermuda",2.283
+"20","AT","BN","Austria","Brunei",0.26
+"21","AT","BO","Austria","Bolivia",0.004
+"22","AT","BR","Austria","Brazil",216.703
+"23","AT","BS","Austria","Bahamas",18.423
+"24","AT","BT","Austria","Bhutan",15.574
+"25","AT","BW","Austria","Botswana",15.303
+"26","AT","BY","Austria","Belarus",1858.719
+"27","AT","BZ","Austria","Belize",0.314
+"28","AT","CA","Austria","Canada",2242.175
+"29","AT","CD","Austria","Congo Democratic Republic",0.018
+"30","AT","CG","Austria","Congo",0.268
+"31","AT","CH","Austria","Switzerland",8730.78
+"32","AT","CI","Austria","Cote d'Ivoire",8.311
+"33","AT","CL","Austria","Chile",80.765
+"34","AT","CM","Austria","Cameroon",15.943
+"35","AT","CN","Austria","China",587.295
+"36","AT","CO","Austria","Colombia",7.665
+"37","AT","CR","Austria","Costa Rica",16.755
+"38","AT","CU","Austria","Cuba",3.395
+"39","AT","CV","Austria","Cape Verde",0.003
+"40","AT","CW","Austria","Curacao",17.585
+"41","AT","CY","Austria","Cyprus",1107.344
+"42","AT","CZ","Austria","Czechia",105549.721
+"43","AT","DE","Austria","Germany",53019.007
+"44","AT","DK","Austria","Denmark",874.747
+"45","AT","DM","Austria","Dominica",0.004
+"46","AT","DO","Austria","Dominican Republic",3.786
+"47","AT","DZ","Austria","Algeria",0.287
+"48","AT","EC","Austria","Ecuador",43.827
+"49","AT","EE","Austria","Estonia",113.711
+"50","AT","EG","Austria","Egypt",42.421
+"51","AT","ES","Austria","Spain",5415.344
+"52","AT","ET","Austria","Ethiopia",0.004
+"53","AT","FI","Austria","Finland",1573.265
+"54","AT","FJ","Austria","Fiji",0.001
+"55","AT","FR","Austria","France",14067.368
+"56","AT","GB","Austria","United Kingdom",9147.78
+"57","AT","GE","Austria","Georgia",50.983
+"58","AT","GG","Austria","Guernsey",264.918
+"59","AT","GH","Austria","Ghana",163.52
+"60","AT","GI","Austria","Gibraltar",3.315
+"61","AT","GN","Austria","Guinea",0.087
+"62","AT","GR","Austria","Greece",246.837
+"63","AT","GT","Austria","Guatemala",1.112
+"64","AT","HK","Austria","Hong Kong SAR",651.707
+"65","AT","HN","Austria","Honduras",66.591
+"66","AT","HR","Austria","Croatia",23157.291
+"67","AT","HU","Austria","Hungary",28772.858
+"68","AT","ID","Austria","Indonesia",306.767
+"69","AT","IE","Austria","Ireland",4967.668
+"70","AT","IL","Austria","Israel",129.323
+"71","AT","IM","Austria","Isle of Man",4.945
+"72","AT","IN","Austria","India",127.866
+"73","AT","IQ","Austria","Iraq",0.875
+"74","AT","IR","Austria","Iran",0.672
+"75","AT","IS","Austria","Iceland",3.354
+"76","AT","IT","Austria","Italy",4887.384
+"77","AT","JE","Austria","Jersey",595.605
+"78","AT","JO","Austria","Jordan",1.337
+"79","AT","JP","Austria","Japan",129.304
+"80","AT","KE","Austria","Kenya",11.696
+"81","AT","KG","Austria","Kyrgyz Republic",1.877
+"82","AT","KH","Austria","Cambodia",1.028
+"83","AT","KN","Austria","St.Kitts - Nevis",0.002
+"84","AT","KP","Austria","North Korea",0.047
+"85","AT","KR","Austria","Korea",477.182
+"86","AT","KW","Austria","Kuwait",13.23
+"87","AT","KY","Austria","Cayman Islands",695.976
+"88","AT","KZ","Austria","Kazakhstan",55.801
+"89","AT","LA","Austria","Laos",1.178
+"90","AT","LB","Austria","Lebanon",4.234
+"91","AT","LI","Austria","Liechtenstein",233.865
+"92","AT","LK","Austria","Sri Lanka",65.924
+"93","AT","LT","Austria","Lithuania",374.633
+"94","AT","LU","Austria","Luxembourg",6642.599
+"95","AT","LV","Austria","Latvia",413.793
+"96","AT","LY","Austria","Libya",0.105
+"97","AT","MA","Austria","Morocco",20.725
+"98","AT","MD","Austria","Moldova",138.33
+"99","AT","ME","Austria","Montenegro",1071.111
+"100","AT","MH","Austria","Marshall Islands",9.515
+"101","AT","MK","Austria","North Macedonia",1502.443
+"102","AT","ML","Austria","Mali",4.808
+"103","AT","MM","Austria","Myanmar",0.164
+"104","AT","MN","Austria","Mongolia",20.233
+"105","AT","MO","Austria","Macao SAR",19.165
+"106","AT","MT","Austria","Malta",150.163
+"107","AT","MU","Austria","Mauritius",37.322
+"108","AT","MV","Austria","Maldives",2.983
+"109","AT","MW","Austria","Malawi",0.059
+"110","AT","MX","Austria","Mexico",75.846
+"111","AT","MY","Austria","Malaysia",232.063
+"112","AT","MZ","Austria","Mozambique",15.431
+"113","AT","NG","Austria","Nigeria",9.736
+"114","AT","NI","Austria","Nicaragua",38.081
+"115","AT","NL","Austria","Netherlands",10084.47
+"116","AT","NO","Austria","Norway",1262.025
+"117","AT","NP","Austria","Nepal",0.193
+"118","AT","NZ","Austria","New Zealand",210.621
+"119","AT","OM","Austria","Oman",11.028
+"120","AT","PA","Austria","Panama",6.274
+"121","AT","PE","Austria","Peru",6.01
+"122","AT","PG","Austria","Papua New Guinea",93.987
+"123","AT","PH","Austria","Philippines",119.014
+"124","AT","PK","Austria","Pakistan",21.925
+"125","AT","PL","Austria","Poland",8900.435
+"126","AT","PS","Austria","Palestinian Territory",0.003
+"127","AT","PT","Austria","Portugal",334.598
+"128","AT","PY","Austria","Paraguay",3.919
+"129","AT","QA","Austria","Qatar",283.355
+"130","AT","RO","Austria","Romania",37059.263
+"131","AT","RS","Austria","Serbia",10325.474
+"132","AT","RU","Austria","Russia",18335.054
+"133","AT","RW","Austria","Rwanda",0.22
+"134","AT","SA","Austria","Saudi Arabia",25.388
+"135","AT","SC","Austria","Seychelles",0.328
+"136","AT","SD","Austria","Sudan",0.532
+"137","AT","SE","Austria","Sweden",1794.339
+"138","AT","SG","Austria","Singapore",718.739
+"139","AT","SI","Austria","Slovenia",7065.184
+"140","AT","SK","Austria","Slovakia",52713.682
+"141","AT","SN","Austria","Senegal",22.327
+"142","AT","SV","Austria","El Salvador",0.642
+"143","AT","SY","Austria","Syria",0.325
+"144","AT","TG","Austria","Togo",37.782
+"145","AT","TH","Austria","Thailand",135.336
+"146","AT","TJ","Austria","Tajikistan",20.465
+"147","AT","TM","Austria","Turkmenistan",0.404
+"148","AT","TN","Austria","Tunisia",30.549
+"149","AT","TR","Austria","Turkey",435.59
+"150","AT","TT","Austria","Trinidad and Tobago",0.261
+"151","AT","TW","Austria","Chinese Taipei",13.794
+"152","AT","TZ","Austria","Tanzania",7.317
+"153","AT","UA","Austria","Ukraine",4411.375
+"154","AT","UG","Austria","Uganda",1.436
+"155","AT","US","Austria","United States",12595.884
+"156","AT","UY","Austria","Uruguay",0.847
+"157","AT","UZ","Austria","Uzbekistan",170.573
+"158","AT","VC","Austria","St. Vincent and the Grenadines",0.005
+"159","AT","VE","Austria","Venezuela",3.856
+"160","AT","VG","Austria","Virgin Islands (British)",195.738
+"161","AT","VN","Austria","Vietnam",419.888
+"162","AT","YE","Austria","Yemen",0.014
+"163","AT","ZA","Austria","South Africa",61.538
+"164","AT","ZM","Austria","Zambia",0.042
+"165","AT","ZW","Austria","Zimbabwe",0.35
+"166","AU","AE","Australia","United Arab Emirates",4347.94
+"167","AU","AF","Australia","Afghanistan",0.04
+"168","AU","AL","Australia","Albania",0.118
+"169","AU","AM","Australia","Armenia",0.077
+"170","AU","AO","Australia","Angola",0.15
+"171","AU","AR","Australia","Argentina",0.913
+"172","AU","AT","Australia","Austria",272.177
+"173","AU","AW","Australia","Aruba",0.001
+"174","AU","AZ","Australia","Azerbaijan",1.892
+"175","AU","BA","Australia","Bosnia and Herzegovina",0.414
+"176","AU","BB","Australia","Barbados",0.94
+"177","AU","BD","Australia","Bangladesh",6.897
+"178","AU","BE","Australia","Belgium",2537.855
+"179","AU","BG","Australia","Bulgaria",2.608
+"180","AU","BH","Australia","Bahrain",12.765
+"181","AU","BJ","Australia","Benin",0.007
+"182","AU","BM","Australia","Bermuda",1044.558
+"183","AU","BN","Australia","Brunei",25.613
+"184","AU","BO","Australia","Bolivia",0.001
+"185","AU","BR","Australia","Brazil",476.798
+"186","AU","BS","Australia","Bahamas",525.114
+"187","AU","BT","Australia","Bhutan",0.001
+"188","AU","BW","Australia","Botswana",2.527
+"189","AU","BY","Australia","Belarus",0.003
+"190","AU","CA","Australia","Canada",11623.697
+"191","AU","CH","Australia","Switzerland",3633.608
+"192","AU","CI","Australia","Cote d'Ivoire",0.207
+"193","AU","CL","Australia","Chile",111.269
+"194","AU","CN","Australia","China",17227.166
+"195","AU","CO","Australia","Colombia",23.117
+"196","AU","CR","Australia","Costa Rica",0.004
+"197","AU","CV","Australia","Cape Verde",0.001
+"198","AU","CY","Australia","Cyprus",91.335
+"199","AU","CZ","Australia","Czechia",57.856
+"200","AU","DE","Australia","Germany",17335.463
+"201","AU","DK","Australia","Denmark",1011.553
+"202","AU","DM","Australia","Dominica",0.023
+"203","AU","DO","Australia","Dominican Republic",0.835
+"204","AU","EC","Australia","Ecuador",0.193
+"205","AU","EE","Australia","Estonia",0.432
+"206","AU","EG","Australia","Egypt",1.995
+"207","AU","ES","Australia","Spain",1857.282
+"208","AU","ET","Australia","Ethiopia",0.184
+"209","AU","FI","Australia","Finland",331.664
+"210","AU","FJ","Australia","Fiji",2219.552
+"211","AU","FK","Australia","Falkland Islands",0.001
+"212","AU","FM","Australia","Micronesia",0.258
+"213","AU","FR","Australia","France",7346.861
+"214","AU","GB","Australia","United Kingdom",98624.033
+"215","AU","GE","Australia","Georgia",0.197
+"216","AU","GG","Australia","Guernsey",1054.154
+"217","AU","GH","Australia","Ghana",3.136
+"218","AU","GI","Australia","Gibraltar",0.303
+"219","AU","GN","Australia","Guinea",0.136
+"220","AU","GR","Australia","Greece",297.91
+"221","AU","GT","Australia","Guatemala",4.846
+"222","AU","GW","Australia","Guinea-Bissau",0.001
+"223","AU","HK","Australia","Hong Kong SAR",11788.854
+"224","AU","HR","Australia","Croatia",20.514
+"225","AU","HU","Australia","Hungary",666.026
+"226","AU","ID","Australia","Indonesia",3258.843
+"227","AU","IE","Australia","Ireland",4335.814
+"228","AU","IL","Australia","Israel",9.911
+"229","AU","IM","Australia","Isle of Man",86.603
+"230","AU","IN","Australia","India",3263.251
+"231","AU","IQ","Australia","Iraq",1.249
+"232","AU","IR","Australia","Iran",0.284
+"233","AU","IS","Australia","Iceland",0.051
+"234","AU","IT","Australia","Italy",696.35
+"235","AU","JE","Australia","Jersey",364.163
+"236","AU","JM","Australia","Jamaica",0.386
+"237","AU","JO","Australia","Jordan",3.516
+"238","AU","JP","Australia","Japan",45718.821
+"239","AU","KE","Australia","Kenya",3.852
+"240","AU","KG","Australia","Kyrgyz Republic",0.002
+"241","AU","KH","Australia","Cambodia",24.945
+"242","AU","KI","Australia","Kiribati",12.574
+"243","AU","KP","Australia","North Korea",6.895
+"244","AU","KR","Australia","Korea",4675.577
+"245","AU","KW","Australia","Kuwait",6.801
+"246","AU","KY","Australia","Cayman Islands",11034.739
+"247","AU","KZ","Australia","Kazakhstan",3.186
+"248","AU","LA","Australia","Laos",69.016
+"249","AU","LB","Australia","Lebanon",0.646
+"250","AU","LC","Australia","St. Lucia",0.117
+"251","AU","LK","Australia","Sri Lanka",19.674
+"252","AU","LR","Australia","Liberia",619.511
+"253","AU","LS","Australia","Lesotho",0.031
+"254","AU","LT","Australia","Lithuania",0.125
+"255","AU","LU","Australia","Luxembourg",4988.139
+"256","AU","LV","Australia","Latvia",0.52
+"257","AU","MA","Australia","Morocco",0.477
+"258","AU","ME","Australia","Montenegro",0.007
+"259","AU","MG","Australia","Madagascar",0.375
+"260","AU","MH","Australia","Marshall Islands",938.183
+"261","AU","MK","Australia","North Macedonia",0.896
+"262","AU","ML","Australia","Mali",0.005
+"263","AU","MM","Australia","Myanmar",88.998
+"264","AU","MN","Australia","Mongolia",145.209
+"265","AU","MO","Australia","Macao SAR",58.38
+"266","AU","MT","Australia","Malta",27.546
+"267","AU","MU","Australia","Mauritius",59.135
+"268","AU","MV","Australia","Maldives",1.371
+"269","AU","MW","Australia","Malawi",0.306
+"270","AU","MX","Australia","Mexico",427.452
+"271","AU","MY","Australia","Malaysia",2182.93
+"272","AU","MZ","Australia","Mozambique",0.209
+"273","AU","NC","Australia","New Caledonia",17.185
+"274","AU","NE","Australia","Niger",0.014
+"275","AU","NG","Australia","Nigeria",3.123
+"276","AU","NL","Australia","Netherlands",7194.318
+"277","AU","NO","Australia","Norway",7958.604
+"278","AU","NP","Australia","Nepal",4.717
+"279","AU","NR","Australia","Nauru",0.006
+"280","AU","NZ","Australia","New Zealand",352643.062
+"281","AU","OM","Australia","Oman",11.389
+"282","AU","PA","Australia","Panama",496.482
+"283","AU","PE","Australia","Peru",19.185
+"284","AU","PF","Australia","French Polynesia",3.57
+"285","AU","PG","Australia","Papua New Guinea",2870.001
+"286","AU","PH","Australia","Philippines",921.766
+"287","AU","PK","Australia","Pakistan",8.156
+"288","AU","PL","Australia","Poland",35.142
+"289","AU","PT","Australia","Portugal",94.983
+"290","AU","PW","Australia","Palau",0.001
+"291","AU","PY","Australia","Paraguay",0.418
+"292","AU","QA","Australia","Qatar",993.505
+"293","AU","RO","Australia","Romania",0.454
+"294","AU","RS","Australia","Serbia",2.263
+"295","AU","RU","Australia","Russia",4.661
+"296","AU","SA","Australia","Saudi Arabia",61.175
+"297","AU","SB","Australia","Solomon Islands",88.72
+"298","AU","SC","Australia","Seychelles",0.288
+"299","AU","SE","Australia","Sweden",2919.633
+"300","AU","SG","Australia","Singapore",28416.73
+"301","AU","SI","Australia","Slovenia",1.69
+"302","AU","SK","Australia","Slovakia",682.45
+"303","AU","SN","Australia","Senegal",0.099
+"304","AU","SV","Australia","El Salvador",1.559
+"305","AU","SZ","Australia","Eswatini",0.851
+"306","AU","TC","Australia","Turks and Caicos Islands",0.001
+"307","AU","TH","Australia","Thailand",1706.115
+"308","AU","TL","Australia","Timor Leste",30.387
+"309","AU","TN","Australia","Tunisia",0.173
+"310","AU","TO","Australia","Tonga",47.836
+"311","AU","TR","Australia","Turkey",17.871
+"312","AU","TT","Australia","Trinidad and Tobago",0.219
+"313","AU","TW","Australia","Chinese Taipei",5638.576
+"314","AU","TZ","Australia","Tanzania",2.63
+"315","AU","UA","Australia","Ukraine",0.111
+"316","AU","UG","Australia","Uganda",0.509
+"317","AU","US","Australia","United States",114901.607
+"318","AU","UY","Australia","Uruguay",0.392
+"319","AU","VE","Australia","Venezuela",0.028
+"320","AU","VN","Australia","Vietnam",1123.636
+"321","AU","VU","Australia","Vanuatu",107.905
+"322","AU","WS","Australia","Samoa",142.094
+"323","AU","YE","Australia","Yemen",0.238
+"324","AU","ZA","Australia","South Africa",101.683
+"325","AU","ZM","Australia","Zambia",1.18
+"326","AU","ZW","Australia","Zimbabwe",0.861
+"327","BE","AE","Belgium","United Arab Emirates",376
+"328","BE","AM","Belgium","Armenia",23
+"329","BE","AR","Belgium","Argentina",49
+"330","BE","AT","Belgium","Austria",1078
+"331","BE","AU","Belgium","Australia",996
+"332","BE","AW","Belgium","Aruba",1
+"333","BE","AZ","Belgium","Azerbaijan",20
+"334","BE","BA","Belgium","Bosnia and Herzegovina",1
+"335","BE","BD","Belgium","Bangladesh",20
+"336","BE","BF","Belgium","Burkina Faso",4
+"337","BE","BG","Belgium","Bulgaria",7531
+"338","BE","BH","Belgium","Bahrain",31
+"339","BE","BJ","Belgium","Benin",91
+"340","BE","BM","Belgium","Bermuda",5
+"341","BE","BR","Belgium","Brazil",15
+"342","BE","BS","Belgium","Bahamas",1
+"343","BE","BY","Belgium","Belarus",57
+"344","BE","CA","Belgium","Canada",4257
+"345","BE","CD","Belgium","Congo Democratic Republic",8
+"346","BE","CG","Belgium","Congo",40
+"347","BE","CH","Belgium","Switzerland",1336
+"348","BE","CI","Belgium","Cote d'Ivoire",215
+"349","BE","CL","Belgium","Chile",150
+"350","BE","CM","Belgium","Cameroon",106
+"351","BE","CN","Belgium","China",1203
+"352","BE","CO","Belgium","Colombia",1
+"353","BE","CR","Belgium","Costa Rica",1
+"354","BE","CV","Belgium","Cape Verde",3
+"355","BE","CW","Belgium","Curacao",1
+"356","BE","CY","Belgium","Cyprus",80
+"357","BE","CZ","Belgium","Czechia",78838
+"358","BE","DE","Belgium","Germany",9605
+"359","BE","DK","Belgium","Denmark",856
+"360","BE","DO","Belgium","Dominican Republic",3
+"361","BE","DZ","Belgium","Algeria",11
+"362","BE","EC","Belgium","Ecuador",4
+"363","BE","EE","Belgium","Estonia",24
+"364","BE","EG","Belgium","Egypt",123
+"365","BE","ES","Belgium","Spain",6508
+"366","BE","ET","Belgium","Ethiopia",1
+"367","BE","FI","Belgium","Finland",1173
+"368","BE","FR","Belgium","France",17273
+"369","BE","GA","Belgium","Gabon",2
+"370","BE","GB","Belgium","United Kingdom",23766
+"371","BE","GE","Belgium","Georgia",3
+"372","BE","GG","Belgium","Guernsey",45
+"373","BE","GH","Belgium","Ghana",160
+"374","BE","GI","Belgium","Gibraltar",3
+"375","BE","GR","Belgium","Greece",4
+"376","BE","GT","Belgium","Guatemala",2
+"377","BE","HK","Belgium","Hong Kong SAR",564
+"378","BE","HN","Belgium","Honduras",3
+"379","BE","HR","Belgium","Croatia",11
+"380","BE","HU","Belgium","Hungary",14537
+"381","BE","ID","Belgium","Indonesia",50
+"382","BE","IE","Belgium","Ireland",16135
+"383","BE","IL","Belgium","Israel",243
+"384","BE","IM","Belgium","Isle of Man",11
+"385","BE","IN","Belgium","India",137
+"386","BE","IQ","Belgium","Iraq",1
+"387","BE","IS","Belgium","Iceland",153
+"388","BE","IT","Belgium","Italy",2919
+"389","BE","JE","Belgium","Jersey",30
+"390","BE","JO","Belgium","Jordan",12
+"391","BE","JP","Belgium","Japan",731
+"392","BE","KE","Belgium","Kenya",109
+"393","BE","KR","Belgium","Korea",328
+"394","BE","KW","Belgium","Kuwait",9
+"395","BE","KY","Belgium","Cayman Islands",656
+"396","BE","KZ","Belgium","Kazakhstan",4
+"397","BE","LB","Belgium","Lebanon",3
+"398","BE","LI","Belgium","Liechtenstein",1
+"399","BE","LK","Belgium","Sri Lanka",6
+"400","BE","LR","Belgium","Liberia",3
+"401","BE","LT","Belgium","Lithuania",266
+"402","BE","LU","Belgium","Luxembourg",5390
+"403","BE","LV","Belgium","Latvia",143
+"404","BE","MA","Belgium","Morocco",32
+"405","BE","MD","Belgium","Moldova",3
+"406","BE","MG","Belgium","Madagascar",1
+"407","BE","MK","Belgium","North Macedonia",2
+"408","BE","MN","Belgium","Mongolia",4
+"409","BE","MT","Belgium","Malta",50
+"410","BE","MU","Belgium","Mauritius",13
+"411","BE","MX","Belgium","Mexico",181
+"412","BE","MY","Belgium","Malaysia",37
+"413","BE","NE","Belgium","Niger",1
+"414","BE","NG","Belgium","Nigeria",19
+"415","BE","NL","Belgium","Netherlands",29032
+"416","BE","NO","Belgium","Norway",770
+"417","BE","NZ","Belgium","New Zealand",90
+"418","BE","OM","Belgium","Oman",26
+"419","BE","PA","Belgium","Panama",64
+"420","BE","PE","Belgium","Peru",50
+"421","BE","PF","Belgium","French Polynesia",3
+"422","BE","PH","Belgium","Philippines",10
+"423","BE","PK","Belgium","Pakistan",5
+"424","BE","PL","Belgium","Poland",2035
+"425","BE","PS","Belgium","Palestinian Territory",1
+"426","BE","PT","Belgium","Portugal",486
+"427","BE","PY","Belgium","Paraguay",2
+"428","BE","QA","Belgium","Qatar",396
+"429","BE","RO","Belgium","Romania",225
+"430","BE","RS","Belgium","Serbia",2
+"431","BE","RU","Belgium","Russia",74
+"432","BE","RW","Belgium","Rwanda",3
+"433","BE","SA","Belgium","Saudi Arabia",10
+"434","BE","SE","Belgium","Sweden",669
+"435","BE","SG","Belgium","Singapore",894
+"436","BE","SI","Belgium","Slovenia",727
+"437","BE","SK","Belgium","Slovakia",18332
+"438","BE","SL","Belgium","Sierra Leone",1
+"439","BE","SN","Belgium","Senegal",13
+"440","BE","TG","Belgium","Togo",4
+"441","BE","TH","Belgium","Thailand",93
+"442","BE","TN","Belgium","Tunisia",8
+"443","BE","TR","Belgium","Turkey",374
+"444","BE","TW","Belgium","Chinese Taipei",11
+"445","BE","TZ","Belgium","Tanzania",6
+"446","BE","UA","Belgium","Ukraine",15
+"447","BE","UG","Belgium","Uganda",1
+"448","BE","US","Belgium","United States",11884
+"449","BE","UY","Belgium","Uruguay",5
+"450","BE","UZ","Belgium","Uzbekistan",4
+"451","BE","VG","Belgium","Virgin Islands (British)",1
+"452","BE","VN","Belgium","Vietnam",28
+"453","BE","ZA","Belgium","South Africa",10
+"454","BE","ZW","Belgium","Zimbabwe",1
+"455","BR","AE","Brazil","United Arab Emirates",2
+"456","BR","AR","Brazil","Argentina",3179
+"457","BR","AT","Brazil","Austria",53
+"458","BR","AU","Brazil","Australia",66
+"459","BR","BE","Brazil","Belgium",30
+"460","BR","BM","Brazil","Bermuda",18
+"461","BR","BS","Brazil","Bahamas",9637
+"462","BR","CA","Brazil","Canada",333
+"463","BR","CH","Brazil","Switzerland",1732
+"464","BR","CL","Brazil","Chile",36323
+"465","BR","CN","Brazil","China",9
+"466","BR","CZ","Brazil","Czechia",8
+"467","BR","DE","Brazil","Germany",748
+"468","BR","DK","Brazil","Denmark",4
+"469","BR","ES","Brazil","Spain",814
+"470","BR","FI","Brazil","Finland",3
+"471","BR","FR","Brazil","France",1197
+"472","BR","GB","Brazil","United Kingdom",11229
+"473","BR","GG","Brazil","Guernsey",5
+"474","BR","HK","Brazil","Hong Kong SAR",19
+"475","BR","IE","Brazil","Ireland",4
+"476","BR","IL","Brazil","Israel",3
+"477","BR","IN","Brazil","India",1
+"478","BR","IT","Brazil","Italy",31
+"479","BR","JP","Brazil","Japan",69
+"480","BR","KY","Brazil","Cayman Islands",9947
+"481","BR","LU","Brazil","Luxembourg",1247
+"482","BR","MT","Brazil","Malta",3
+"483","BR","MX","Brazil","Mexico",268
+"484","BR","NL","Brazil","Netherlands",476
+"485","BR","NO","Brazil","Norway",6
+"486","BR","PA","Brazil","Panama",71
+"487","BR","PE","Brazil","Peru",59
+"488","BR","PT","Brazil","Portugal",72
+"489","BR","RU","Brazil","Russia",3
+"490","BR","SE","Brazil","Sweden",170
+"491","BR","SG","Brazil","Singapore",14
+"492","BR","TW","Brazil","Chinese Taipei",14
+"493","BR","US","Brazil","United States",23751
+"494","BR","ZA","Brazil","South Africa",3
+"495","CA","AE","Canada","United Arab Emirates",1399.555
+"496","CA","AR","Canada","Argentina",122.082
+"497","CA","AT","Canada","Austria",2007.838
+"498","CA","AU","Canada","Australia",29835.391
+"499","CA","BB","Canada","Barbados",4221.72
+"500","CA","BD","Canada","Bangladesh",29.841
+"501","CA","BE","Canada","Belgium",2430.025
+"502","CA","BG","Canada","Bulgaria",0.144
+"503","CA","BM","Canada","Bermuda",2368.833
+"504","CA","BS","Canada","Bahamas",7127.36
+"505","CA","BY","Canada","Belarus",0.67
+"506","CA","CI","Canada","Cote d'Ivoire",108.96
+"507","CA","CN","Canada","China",21338.838
+"508","CA","CZ","Canada","Czechia",372.661
+"509","CA","DE","Canada","Germany",24252.522
+"510","CA","DK","Canada","Denmark",1908.586
+"511","CA","DZ","Canada","Algeria",0.845
+"512","CA","EG","Canada","Egypt",7.212
+"513","CA","ES","Canada","Spain",1514.494
+"514","CA","FI","Canada","Finland",2351.343
+"515","CA","FR","Canada","France",28284.124
+"516","CA","GB","Canada","United Kingdom",219352.418
+"517","CA","GH","Canada","Ghana",1.407
+"518","CA","GT","Canada","Guatemala",296.792
+"519","CA","HK","Canada","Hong Kong SAR",4867.664
+"520","CA","HR","Canada","Croatia",0.292
+"521","CA","ID","Canada","Indonesia",143.812
+"522","CA","IE","Canada","Ireland",46355.629
+"523","CA","IL","Canada","Israel",1484.638
+"524","CA","IN","Canada","India",2963.008
+"525","CA","IR","Canada","Iran",12.828
+"526","CA","IT","Canada","Italy",590.795
+"527","CA","JP","Canada","Japan",60591.305
+"528","CA","KE","Canada","Kenya",1.185
+"529","CA","KR","Canada","Korea",1745.801
+"530","CA","KY","Canada","Cayman Islands",58831.514
+"531","CA","KZ","Canada","Kazakhstan",4.455
+"532","CA","LI","Canada","Liechtenstein",16.645
+"533","CA","LK","Canada","Sri Lanka",0.498
+"534","CA","LU","Canada","Luxembourg",15526.433
+"535","CA","LV","Canada","Latvia",850.843
+"536","CA","MA","Canada","Morocco",4.185
+"537","CA","MY","Canada","Malaysia",457.35
+"538","CA","NG","Canada","Nigeria",4.9
+"539","CA","NL","Canada","Netherlands",8756.482
+"540","CA","NZ","Canada","New Zealand",1143.632
+"541","CA","PH","Canada","Philippines",620.406
+"542","CA","PL","Canada","Poland",151.808
+"543","CA","RO","Canada","Romania",12.82
+"544","CA","RS","Canada","Serbia",1.552
+"545","CA","RU","Canada","Russia",5.66
+"546","CA","SA","Canada","Saudi Arabia",178.958
+"547","CA","SE","Canada","Sweden",5900.302
+"548","CA","SG","Canada","Singapore",32021.447
+"549","CA","TC","Canada","Turks and Caicos Islands",800.028
+"550","CA","TH","Canada","Thailand",41.847
+"551","CA","TN","Canada","Tunisia",0.309
+"552","CA","TT","Canada","Trinidad and Tobago",7782.692
+"553","CA","TW","Canada","Chinese Taipei",957.137
+"554","CA","UG","Canada","Uganda",0.96
+"555","CA","US","Canada","United States",1677762.023
+"556","CA","VE","Canada","Venezuela",7.399
+"557","CA","VG","Canada","Virgin Islands (British)",2998.959
+"558","CA","VN","Canada","Vietnam",117.13
+"559","CA","ZA","Canada","South Africa",63.512
+"560","CH","AD","Switzerland","Andorra",219.621
+"561","CH","AE","Switzerland","United Arab Emirates",16146.24
+"562","CH","AF","Switzerland","Afghanistan",0.011
+"563","CH","AL","Switzerland","Albania",14.654
+"564","CH","AM","Switzerland","Armenia",30.549
+"565","CH","AO","Switzerland","Angola",150.271
+"566","CH","AR","Switzerland","Argentina",843.905
+"567","CH","AT","Switzerland","Austria",11252.875
+"568","CH","AU","Switzerland","Australia",14535.579
+"569","CH","AW","Switzerland","Aruba",362.949
+"570","CH","AZ","Switzerland","Azerbaijan",233.391
+"571","CH","BA","Switzerland","Bosnia and Herzegovina",8.014
+"572","CH","BB","Switzerland","Barbados",126.898
+"573","CH","BD","Switzerland","Bangladesh",628.416
+"574","CH","BE","Switzerland","Belgium",6368.804
+"575","CH","BF","Switzerland","Burkina Faso",3.658
+"576","CH","BG","Switzerland","Bulgaria",205.119
+"577","CH","BH","Switzerland","Bahrain",1722.954
+"578","CH","BI","Switzerland","Burundi",20.666
+"579","CH","BJ","Switzerland","Benin",105.47
+"580","CH","BM","Switzerland","Bermuda",3145.404
+"581","CH","BN","Switzerland","Brunei",82.047
+"582","CH","BO","Switzerland","Bolivia",133.931
+"583","CH","BQ","Switzerland","Bonaire, Sint Eustatius and Saba",2.171
+"584","CH","BR","Switzerland","Brazil",5139.453
+"585","CH","BS","Switzerland","Bahamas",15684.687
+"586","CH","BW","Switzerland","Botswana",15.765
+"587","CH","BY","Switzerland","Belarus",127.236
+"588","CH","BZ","Switzerland","Belize",871.284
+"589","CH","CA","Switzerland","Canada",21072.869
+"590","CH","CD","Switzerland","Congo Democratic Republic",22.578
+"591","CH","CF","Switzerland","Central African Republic",0.402
+"592","CH","CG","Switzerland","Congo",41.039
+"593","CH","CI","Switzerland","Cote d'Ivoire",308.009
+"594","CH","CL","Switzerland","Chile",1952.288
+"595","CH","CM","Switzerland","Cameroon",14.017
+"596","CH","CN","Switzerland","China",40124.418
+"597","CH","CO","Switzerland","Colombia",312.753
+"598","CH","CR","Switzerland","Costa Rica",310.32
+"599","CH","CU","Switzerland","Cuba",0.02
+"600","CH","CV","Switzerland","Cape Verde",8.564
+"601","CH","CW","Switzerland","Curacao",580.404
+"602","CH","CY","Switzerland","Cyprus",5932.546
+"603","CH","CZ","Switzerland","Czechia",1303.729
+"604","CH","DE","Switzerland","Germany",74551.945
+"605","CH","DJ","Switzerland","Djibouti",0.139
+"606","CH","DK","Switzerland","Denmark",3364.217
+"607","CH","DM","Switzerland","Dominica",16.373
+"608","CH","DO","Switzerland","Dominican Republic",121.177
+"609","CH","DZ","Switzerland","Algeria",56.715
+"610","CH","EC","Switzerland","Ecuador",346.983
+"611","CH","EE","Switzerland","Estonia",134.417
+"612","CH","EG","Switzerland","Egypt",2951.55
+"613","CH","ER","Switzerland","Eritrea",0.002
+"614","CH","ES","Switzerland","Spain",9267.894
+"615","CH","ET","Switzerland","Ethiopia",56.595
+"616","CH","FI","Switzerland","Finland",4111.038
+"617","CH","FJ","Switzerland","Fiji",0.736
+"618","CH","FM","Switzerland","Micronesia",98.913
+"619","CH","FO","Switzerland","Faeroe Islands",1.05
+"620","CH","FR","Switzerland","France",67789.569
+"621","CH","GA","Switzerland","Gabon",23.604
+"622","CH","GB","Switzerland","United Kingdom",168674.116
+"623","CH","GD","Switzerland","Grenada",118.702
+"624","CH","GE","Switzerland","Georgia",111.027
+"625","CH","GG","Switzerland","Guernsey",7877.409
+"626","CH","GH","Switzerland","Ghana",314.226
+"627","CH","GI","Switzerland","Gibraltar",712.167
+"628","CH","GL","Switzerland","Greenland",0.002
+"629","CH","GM","Switzerland","Gambia",0.446
+"630","CH","GN","Switzerland","Guinea",1.702
+"631","CH","GQ","Switzerland","Equatorial Guinea",0.577
+"632","CH","GR","Switzerland","Greece",1141.304
+"633","CH","GT","Switzerland","Guatemala",151.869
+"634","CH","GW","Switzerland","Guinea-Bissau",0.238
+"635","CH","GY","Switzerland","Guyana",0.004
+"636","CH","HK","Switzerland","Hong Kong SAR",44009.806
+"637","CH","HN","Switzerland","Honduras",83.539
+"638","CH","HR","Switzerland","Croatia",74.808
+"639","CH","HT","Switzerland","Haiti",3.642
+"640","CH","HU","Switzerland","Hungary",350.585
+"641","CH","ID","Switzerland","Indonesia",3611.727
+"642","CH","IE","Switzerland","Ireland",24275.745
+"643","CH","IL","Switzerland","Israel",4888.561
+"644","CH","IM","Switzerland","Isle of Man",1326.559
+"645","CH","IN","Switzerland","India",2467.501
+"646","CH","IQ","Switzerland","Iraq",13.05
+"647","CH","IR","Switzerland","Iran",0.109
+"648","CH","IS","Switzerland","Iceland",32.221
+"649","CH","IT","Switzerland","Italy",18986.817
+"650","CH","JE","Switzerland","Jersey",7380.596
+"651","CH","JM","Switzerland","Jamaica",31.447
+"652","CH","JO","Switzerland","Jordan",493.733
+"653","CH","JP","Switzerland","Japan",15925.597
+"654","CH","KE","Switzerland","Kenya",768.723
+"655","CH","KG","Switzerland","Kyrgyz Republic",16.469
+"656","CH","KH","Switzerland","Cambodia",9.181
+"657","CH","KM","Switzerland","Comoros",5.56
+"658","CH","KR","Switzerland","Korea",13988.127
+"659","CH","KW","Switzerland","Kuwait",927.087
+"660","CH","KY","Switzerland","Cayman Islands",43564.373
+"661","CH","KZ","Switzerland","Kazakhstan",392.109
+"662","CH","LA","Switzerland","Laos",309.973
+"663","CH","LB","Switzerland","Lebanon",1082.23
+"664","CH","LC","Switzerland","St. Lucia",33.944
+"665","CH","LK","Switzerland","Sri Lanka",47.369
+"666","CH","LR","Switzerland","Liberia",3223.119
+"667","CH","LT","Switzerland","Lithuania",95.469
+"668","CH","LU","Switzerland","Luxembourg",81776.45
+"669","CH","LV","Switzerland","Latvia",81.072
+"670","CH","LY","Switzerland","Libya",24.627
+"671","CH","MA","Switzerland","Morocco",413.956
+"672","CH","MD","Switzerland","Moldova",3.731
+"673","CH","ME","Switzerland","Montenegro",298.436
+"674","CH","MG","Switzerland","Madagascar",17.963
+"675","CH","MH","Switzerland","Marshall Islands",4131.87
+"676","CH","MK","Switzerland","North Macedonia",28.667
+"677","CH","ML","Switzerland","Mali",7.268
+"678","CH","MM","Switzerland","Myanmar",0.339
+"679","CH","MN","Switzerland","Mongolia",10.59
+"680","CH","MO","Switzerland","Macao SAR",168.601
+"681","CH","MR","Switzerland","Mauritania",11.926
+"682","CH","MT","Switzerland","Malta",1900.026
+"683","CH","MU","Switzerland","Mauritius",932.985
+"684","CH","MV","Switzerland","Maldives",33.038
+"685","CH","MW","Switzerland","Malawi",1.968
+"686","CH","MX","Switzerland","Mexico",3687.17
+"687","CH","MY","Switzerland","Malaysia",2473.046
+"688","CH","MZ","Switzerland","Mozambique",155.192
+"689","CH","NC","Switzerland","New Caledonia",25.395
+"690","CH","NE","Switzerland","Niger",1.425
+"691","CH","NG","Switzerland","Nigeria",966.376
+"692","CH","NI","Switzerland","Nicaragua",16.5
+"693","CH","NL","Switzerland","Netherlands",20899.412
+"694","CH","NO","Switzerland","Norway",4322.237
+"695","CH","NP","Switzerland","Nepal",9.196
+"696","CH","NZ","Switzerland","New Zealand",2009.957
+"697","CH","OM","Switzerland","Oman",630.514
+"698","CH","PA","Switzerland","Panama",6467.661
+"699","CH","PE","Switzerland","Peru",507.738
+"700","CH","PF","Switzerland","French Polynesia",78.283
+"701","CH","PG","Switzerland","Papua New Guinea",3.409
+"702","CH","PH","Switzerland","Philippines",1261.273
+"703","CH","PK","Switzerland","Pakistan",1335.112
+"704","CH","PL","Switzerland","Poland",1332.768
+"705","CH","PS","Switzerland","Palestinian Territory",78.557
+"706","CH","PT","Switzerland","Portugal",2234.651
+"707","CH","PY","Switzerland","Paraguay",205.175
+"708","CH","QA","Switzerland","Qatar",8553.178
+"709","CH","RO","Switzerland","Romania",331.628
+"710","CH","RS","Switzerland","Serbia",216.411
+"711","CH","RU","Switzerland","Russia",3928.62
+"712","CH","RW","Switzerland","Rwanda",7.692
+"713","CH","SA","Switzerland","Saudi Arabia",3790.465
+"714","CH","SC","Switzerland","Seychelles",2012.064
+"715","CH","SD","Switzerland","Sudan",17.046
+"716","CH","SE","Switzerland","Sweden",7699.596
+"717","CH","SG","Switzerland","Singapore",42641.975
+"718","CH","SH","Switzerland","St Helena, Ascension and Tristan da Cunha",0.471
+"719","CH","SI","Switzerland","Slovenia",46.601
+"720","CH","SK","Switzerland","Slovakia",139.216
+"721","CH","SL","Switzerland","Sierra Leone",0.003
+"722","CH","SM","Switzerland","San Marino",21.336
+"723","CH","SN","Switzerland","Senegal",63.204
+"724","CH","SR","Switzerland","Suriname",230.289
+"725","CH","ST","Switzerland","Sao Tome and Principe",2.848
+"726","CH","SV","Switzerland","El Salvador",52.1
+"727","CH","SX","Switzerland","Sint Maarten",1.769
+"728","CH","SY","Switzerland","Syria",1.505
+"729","CH","SZ","Switzerland","Eswatini",33.693
+"730","CH","TC","Switzerland","Turks and Caicos Islands",156.389
+"731","CH","TD","Switzerland","Chad",0.582
+"732","CH","TG","Switzerland","Togo",3.885
+"733","CH","TH","Switzerland","Thailand",4545.28
+"734","CH","TJ","Switzerland","Tajikistan",1.635
+"735","CH","TL","Switzerland","Timor Leste",0.167
+"736","CH","TM","Switzerland","Turkmenistan",76.238
+"737","CH","TN","Switzerland","Tunisia",82.814
+"738","CH","TR","Switzerland","Turkey",4778.11
+"739","CH","TT","Switzerland","Trinidad and Tobago",213.117
+"740","CH","TW","Switzerland","Chinese Taipei",10320.799
+"741","CH","TZ","Switzerland","Tanzania",187.666
+"742","CH","UA","Switzerland","Ukraine",412.607
+"743","CH","UG","Switzerland","Uganda",104.109
+"744","CH","US","Switzerland","United States",567296.403
+"745","CH","UY","Switzerland","Uruguay",803.728
+"746","CH","UZ","Switzerland","Uzbekistan",662.334
+"747","CH","VA","Switzerland","Vatican City State",46.174
+"748","CH","VC","Switzerland","St. Vincent and the Grenadines",100.555
+"749","CH","VE","Switzerland","Venezuela",368.083
+"750","CH","VN","Switzerland","Vietnam",1089.644
+"751","CH","VU","Switzerland","Vanuatu",6.48
+"752","CH","WS","Switzerland","Samoa",985.438
+"753","CH","YE","Switzerland","Yemen",0.288
+"754","CH","ZA","Switzerland","South Africa",860.985
+"755","CH","ZM","Switzerland","Zambia",105.446
+"756","CH","ZW","Switzerland","Zimbabwe",32.05
+"757","CL","AR","Chile","Argentina",21.652
+"758","CL","AU","Chile","Australia",3.115
+"759","CL","BE","Chile","Belgium",0.419
+"760","CL","BR","Chile","Brazil",913.757
+"761","CL","BS","Chile","Bahamas",10.888
+"762","CL","CA","Chile","Canada",61.109
+"763","CL","CH","Chile","Switzerland",61.771
+"764","CL","CN","Chile","China",154.818
+"765","CL","DE","Chile","Germany",55.986
+"766","CL","DK","Chile","Denmark",125.493
+"767","CL","ES","Chile","Spain",581.473
+"768","CL","FI","Chile","Finland",0.913
+"769","CL","FR","Chile","France",495.882
+"770","CL","GB","Chile","United Kingdom",3088.234
+"771","CL","HK","Chile","Hong Kong SAR",1.761
+"772","CL","IE","Chile","Ireland",14.132
+"773","CL","IT","Chile","Italy",4.363
+"774","CL","JP","Chile","Japan",89.882
+"775","CL","KR","Chile","Korea",9.227
+"776","CL","KW","Chile","Kuwait",149.184
+"777","CL","KY","Chile","Cayman Islands",47.592
+"778","CL","MX","Chile","Mexico",217.614
+"779","CL","NL","Chile","Netherlands",13.488
+"780","CL","NO","Chile","Norway",3.196
+"781","CL","PA","Chile","Panama",649.306
+"782","CL","PE","Chile","Peru",465.213
+"783","CL","PT","Chile","Portugal",2.942
+"784","CL","QA","Chile","Qatar",12.38
+"785","CL","SE","Chile","Sweden",0.008
+"786","CL","US","Chile","United States",8158.918
+"787","CL","ZA","Chile","South Africa",0.007
+"788","DE","AE","Germany","United Arab Emirates",5668
+"789","DE","AR","Germany","Argentina",872
+"790","DE","AT","Germany","Austria",54990
+"791","DE","AU","Germany","Australia",26216
+"792","DE","BE","Germany","Belgium",26004
+"793","DE","BG","Germany","Bulgaria",763
+"794","DE","BH","Germany","Bahrain",1539
+"795","DE","BM","Germany","Bermuda",5500
+"796","DE","BR","Germany","Brazil",5474
+"797","DE","BS","Germany","Bahamas",1547
+"798","DE","CA","Germany","Canada",41895
+"799","DE","CH","Germany","Switzerland",76363
+"800","DE","CL","Germany","Chile",2751
+"801","DE","CN","Germany","China",18869
+"802","DE","CW","Germany","Curacao",88
+"803","DE","CY","Germany","Cyprus",1653
+"804","DE","CZ","Germany","Czechia",14091
+"805","DE","DK","Germany","Denmark",12926
+"806","DE","EE","Germany","Estonia",379
+"807","DE","ES","Germany","Spain",70638
+"808","DE","FI","Germany","Finland",20163
+"809","DE","FR","Germany","France",165854
+"810","DE","GB","Germany","United Kingdom",208021
+"811","DE","GG","Germany","Guernsey",6407
+"812","DE","GR","Germany","Greece",20773
+"813","DE","HK","Germany","Hong Kong SAR",14889
+"814","DE","HU","Germany","Hungary",5423
+"815","DE","ID","Germany","Indonesia",6607
+"816","DE","IE","Germany","Ireland",37004
+"817","DE","IL","Germany","Israel",2368
+"818","DE","IM","Germany","Isle of Man",2623
+"819","DE","IN","Germany","India",23832
+"820","DE","IR","Germany","Iran",2
+"821","DE","IT","Germany","Italy",80164
+"822","DE","JE","Germany","Jersey",10405
+"823","DE","JP","Germany","Japan",25730
+"824","DE","KR","Germany","Korea",12725
+"825","DE","KW","Germany","Kuwait",1150
+"826","DE","KY","Germany","Cayman Islands",33819
+"827","DE","LT","Germany","Lithuania",1267
+"828","DE","LU","Germany","Luxembourg",150526
+"829","DE","LV","Germany","Latvia",902
+"830","DE","MO","Germany","Macao SAR",67
+"831","DE","MT","Germany","Malta",1759
+"832","DE","MX","Germany","Mexico",4914
+"833","DE","MY","Germany","Malaysia",2060
+"834","DE","NG","Germany","Nigeria",1505
+"835","DE","NL","Germany","Netherlands",112175
+"836","DE","NO","Germany","Norway",29363
+"837","DE","PA","Germany","Panama",1451
+"838","DE","PE","Germany","Peru",1508
+"839","DE","PH","Germany","Philippines",1288
+"840","DE","PL","Germany","Poland",59999
+"841","DE","PT","Germany","Portugal",7704
+"842","DE","QA","Germany","Qatar",2971
+"843","DE","RO","Germany","Romania",1628
+"844","DE","RU","Germany","Russia",7342
+"845","DE","SA","Germany","Saudi Arabia",4571
+"846","DE","SE","Germany","Sweden",32054
+"847","DE","SG","Germany","Singapore",23858
+"848","DE","SI","Germany","Slovenia",1857
+"849","DE","SK","Germany","Slovakia",4252
+"850","DE","TH","Germany","Thailand",3093
+"851","DE","TR","Germany","Turkey",13446
+"852","DE","TW","Germany","Chinese Taipei",1919
+"853","DE","US","Germany","United States",421043
+"854","DE","ZA","Germany","South Africa",2389
+"855","DK","AD","Denmark","Andorra",1
+"856","DK","AE","Denmark","United Arab Emirates",209
+"857","DK","AT","Denmark","Austria",263
+"858","DK","AU","Denmark","Australia",142
+"859","DK","BD","Denmark","Bangladesh",8
+"860","DK","BE","Denmark","Belgium",614
+"861","DK","BG","Denmark","Bulgaria",13
+"862","DK","BH","Denmark","Bahrain",2
+"863","DK","BM","Denmark","Bermuda",577
+"864","DK","BO","Denmark","Bolivia",87
+"865","DK","BR","Denmark","Brazil",21
+"866","DK","BS","Denmark","Bahamas",76
+"867","DK","BW","Denmark","Botswana",7
+"868","DK","CA","Denmark","Canada",319
+"869","DK","CH","Denmark","Switzerland",2361
+"870","DK","CL","Denmark","Chile",3
+"871","DK","CN","Denmark","China",202
+"872","DK","CR","Denmark","Costa Rica",3
+"873","DK","CW","Denmark","Curacao",3
+"874","DK","CY","Denmark","Cyprus",130
+"875","DK","CZ","Denmark","Czechia",31
+"876","DK","DE","Denmark","Germany",43553
+"877","DK","EC","Denmark","Ecuador",2
+"878","DK","EE","Denmark","Estonia",457
+"879","DK","EG","Denmark","Egypt",3
+"880","DK","ES","Denmark","Spain",887
+"881","DK","ET","Denmark","Ethiopia",4
+"882","DK","FI","Denmark","Finland",35455
+"883","DK","FO","Denmark","Faeroe Islands",937
+"884","DK","FR","Denmark","France",9808
+"885","DK","GB","Denmark","United Kingdom",23677
+"886","DK","GE","Denmark","Georgia",1
+"887","DK","GG","Denmark","Guernsey",3765
+"888","DK","GH","Denmark","Ghana",50
+"889","DK","GI","Denmark","Gibraltar",31
+"890","DK","GL","Denmark","Greenland",870
+"891","DK","GR","Denmark","Greece",6
+"892","DK","HK","Denmark","Hong Kong SAR",165
+"893","DK","HR","Denmark","Croatia",11
+"894","DK","HU","Denmark","Hungary",121
+"895","DK","ID","Denmark","Indonesia",7
+"896","DK","IE","Denmark","Ireland",6296
+"897","DK","IL","Denmark","Israel",3
+"898","DK","IM","Denmark","Isle of Man",47
+"899","DK","IN","Denmark","India",41
+"900","DK","IS","Denmark","Iceland",144
+"901","DK","IT","Denmark","Italy",416
+"902","DK","JE","Denmark","Jersey",172
+"903","DK","JO","Denmark","Jordan",1
+"904","DK","JP","Denmark","Japan",300
+"905","DK","KE","Denmark","Kenya",7
+"906","DK","KR","Denmark","Korea",30
+"907","DK","KW","Denmark","Kuwait",2
+"908","DK","KY","Denmark","Cayman Islands",3552
+"909","DK","KZ","Denmark","Kazakhstan",2
+"910","DK","LB","Denmark","Lebanon",1
+"911","DK","LI","Denmark","Liechtenstein",203
+"912","DK","LK","Denmark","Sri Lanka",1
+"913","DK","LR","Denmark","Liberia",154
+"914","DK","LT","Denmark","Lithuania",89
+"915","DK","LU","Denmark","Luxembourg",13377
+"916","DK","LV","Denmark","Latvia",57
+"917","DK","MH","Denmark","Marshall Islands",254
+"918","DK","MK","Denmark","North Macedonia",5
+"919","DK","MT","Denmark","Malta",117
+"920","DK","MU","Denmark","Mauritius",10
+"921","DK","MX","Denmark","Mexico",147
+"922","DK","MY","Denmark","Malaysia",39
+"923","DK","NG","Denmark","Nigeria",2
+"924","DK","NL","Denmark","Netherlands",7142
+"925","DK","NO","Denmark","Norway",47387
+"926","DK","NZ","Denmark","New Zealand",31
+"927","DK","OM","Denmark","Oman",2
+"928","DK","PA","Denmark","Panama",2
+"929","DK","PE","Denmark","Peru",1
+"930","DK","PH","Denmark","Philippines",6
+"931","DK","PK","Denmark","Pakistan",1
+"932","DK","PL","Denmark","Poland",952
+"933","DK","PT","Denmark","Portugal",175
+"934","DK","QA","Denmark","Qatar",9
+"935","DK","RO","Denmark","Romania",11
+"936","DK","RS","Denmark","Serbia",2
+"937","DK","RU","Denmark","Russia",14
+"938","DK","SA","Denmark","Saudi Arabia",28
+"939","DK","SC","Denmark","Seychelles",9
+"940","DK","SE","Denmark","Sweden",93543
+"941","DK","SG","Denmark","Singapore",169
+"942","DK","SI","Denmark","Slovenia",1
+"943","DK","SK","Denmark","Slovakia",163
+"944","DK","SR","Denmark","Suriname",12
+"945","DK","TH","Denmark","Thailand",23
+"946","DK","TN","Denmark","Tunisia",3
+"947","DK","TR","Denmark","Turkey",675
+"948","DK","TW","Denmark","Chinese Taipei",31
+"949","DK","TZ","Denmark","Tanzania",8
+"950","DK","UA","Denmark","Ukraine",6
+"951","DK","US","Denmark","United States",11315
+"952","DK","UY","Denmark","Uruguay",3
+"953","DK","VE","Denmark","Venezuela",1
+"954","DK","VN","Denmark","Vietnam",14
+"955","DK","ZA","Denmark","South Africa",441
+"956","ES","AD","Spain","Andorra",213.719
+"957","ES","AE","Spain","United Arab Emirates",3935.247
+"958","ES","AF","Spain","Afghanistan",0.079
+"959","ES","AI","Spain","Anguilla",132.172
+"960","ES","AL","Spain","Albania",0.355
+"961","ES","AM","Spain","Armenia",6.684
+"962","ES","AO","Spain","Angola",1197.851
+"963","ES","AR","Spain","Argentina",22069.04
+"964","ES","AT","Spain","Austria",5383.653
+"965","ES","AU","Spain","Australia",3072.67
+"966","ES","AW","Spain","Aruba",37.072
+"967","ES","AZ","Spain","Azerbaijan",2.089
+"968","ES","BA","Spain","Bosnia and Herzegovina",0.707
+"969","ES","BB","Spain","Barbados",226.981
+"970","ES","BD","Spain","Bangladesh",289.825
+"971","ES","BE","Spain","Belgium",6616.626
+"972","ES","BF","Spain","Burkina Faso",0.009
+"973","ES","BG","Spain","Bulgaria",65.959
+"974","ES","BH","Spain","Bahrain",437.541
+"975","ES","BM","Spain","Bermuda",566.589
+"976","ES","BO","Spain","Bolivia",137.535
+"977","ES","BR","Spain","Brazil",153925.153
+"978","ES","BS","Spain","Bahamas",889.966
+"979","ES","BY","Spain","Belarus",52.256
+"980","ES","BZ","Spain","Belize",22.652
+"981","ES","CA","Spain","Canada",5906.456
+"982","ES","CD","Spain","Congo Democratic Republic",1.22
+"983","ES","CF","Spain","Central African Republic",0.03
+"984","ES","CG","Spain","Congo",0.74
+"985","ES","CH","Spain","Switzerland",11856.1
+"986","ES","CI","Spain","Cote d'Ivoire",5.101
+"987","ES","CL","Spain","Chile",63043.838
+"988","ES","CM","Spain","Cameroon",12.107
+"989","ES","CN","Spain","China",6169.329
+"990","ES","CO","Spain","Colombia",23861.245
+"991","ES","CR","Spain","Costa Rica",114.13
+"992","ES","CU","Spain","Cuba",265.327
+"993","ES","CV","Spain","Cape Verde",108.863
+"994","ES","CW","Spain","Curacao",102.158
+"995","ES","CY","Spain","Cyprus",195.156
+"996","ES","CZ","Spain","Czechia",385.862
+"997","ES","DE","Spain","Germany",96041.454
+"998","ES","DK","Spain","Denmark",5193.585
+"999","ES","DM","Spain","Dominica",0.141
+"1000","ES","DO","Spain","Dominican Republic",639.293
+"1001","ES","DZ","Spain","Algeria",36.957
+"1002","ES","EC","Spain","Ecuador",780.778
+"1003","ES","EE","Spain","Estonia",21.299
+"1004","ES","EG","Spain","Egypt",663.478
+"1005","ES","ET","Spain","Ethiopia",3.675
+"1006","ES","FI","Spain","Finland",5640.282
+"1007","ES","FK","Spain","Falkland Islands",69.436
+"1008","ES","FR","Spain","France",83291.261
+"1009","ES","GA","Spain","Gabon",42.828
+"1010","ES","GB","Spain","United Kingdom",511954.822
+"1011","ES","GE","Spain","Georgia",5.501
+"1012","ES","GG","Spain","Guernsey",726.747
+"1013","ES","GH","Spain","Ghana",48.935
+"1014","ES","GI","Spain","Gibraltar",86.555
+"1015","ES","GM","Spain","Gambia",0.118
+"1016","ES","GN","Spain","Guinea",1.528
+"1017","ES","GQ","Spain","Equatorial Guinea",10.528
+"1018","ES","GR","Spain","Greece",217.687
+"1019","ES","GT","Spain","Guatemala",132.745
+"1020","ES","GW","Spain","Guinea-Bissau",1.268
+"1021","ES","HK","Spain","Hong Kong SAR",8030.438
+"1022","ES","HN","Spain","Honduras",76.668
+"1023","ES","HR","Spain","Croatia",8.031
+"1024","ES","HT","Spain","Haiti",3.582
+"1025","ES","HU","Spain","Hungary",275.893
+"1026","ES","ID","Spain","Indonesia",83.275
+"1027","ES","IE","Spain","Ireland",27173.893
+"1028","ES","IL","Spain","Israel",362.339
+"1029","ES","IM","Spain","Isle of Man",615.706
+"1030","ES","IN","Spain","India",1265.064
+"1031","ES","IQ","Spain","Iraq",2.402
+"1032","ES","IR","Spain","Iran",10.122
+"1033","ES","IS","Spain","Iceland",71.274
+"1034","ES","IT","Spain","Italy",103568.819
+"1035","ES","JE","Spain","Jersey",2424.797
+"1036","ES","JM","Spain","Jamaica",107.966
+"1037","ES","JO","Spain","Jordan",37.16
+"1038","ES","JP","Spain","Japan",9346.702
+"1039","ES","KE","Spain","Kenya",101.603
+"1040","ES","KG","Spain","Kyrgyz Republic",2.758
+"1041","ES","KH","Spain","Cambodia",2.147
+"1042","ES","KN","Spain","St.Kitts - Nevis",195.847
+"1043","ES","KR","Spain","Korea",789.499
+"1044","ES","KW","Spain","Kuwait",1263.995
+"1045","ES","KY","Spain","Cayman Islands",6090.53
+"1046","ES","KZ","Spain","Kazakhstan",31.487
+"1047","ES","LB","Spain","Lebanon",6.781
+"1048","ES","LI","Spain","Liechtenstein",33.783
+"1049","ES","LK","Spain","Sri Lanka",55.962
+"1050","ES","LR","Spain","Liberia",120.737
+"1051","ES","LT","Spain","Lithuania",24.902
+"1052","ES","LU","Spain","Luxembourg",21176.736
+"1053","ES","LV","Spain","Latvia",10.987
+"1054","ES","LY","Spain","Libya",0.821
+"1055","ES","MA","Spain","Morocco",1083.796
+"1056","ES","MD","Spain","Moldova",3.175
+"1057","ES","ME","Spain","Montenegro",0.743
+"1058","ES","MG","Spain","Madagascar",0.799
+"1059","ES","MH","Spain","Marshall Islands",318.23
+"1060","ES","MK","Spain","North Macedonia",17.985
+"1061","ES","ML","Spain","Mali",0.416
+"1062","ES","MM","Spain","Myanmar",0.962
+"1063","ES","MN","Spain","Mongolia",0.696
+"1064","ES","MO","Spain","Macao SAR",9.646
+"1065","ES","MR","Spain","Mauritania",2.852
+"1066","ES","MT","Spain","Malta",1106.085
+"1067","ES","MU","Spain","Mauritius",139.89
+"1068","ES","MX","Spain","Mexico",185927.82
+"1069","ES","MY","Spain","Malaysia",426.736
+"1070","ES","MZ","Spain","Mozambique",41.998
+"1071","ES","NC","Spain","New Caledonia",572.732
+"1072","ES","NE","Spain","Niger",0.928
+"1073","ES","NG","Spain","Nigeria",147.975
+"1074","ES","NI","Spain","Nicaragua",51.443
+"1075","ES","NL","Spain","Netherlands",19069.946
+"1076","ES","NO","Spain","Norway",8505.163
+"1077","ES","NP","Spain","Nepal",0.146
+"1078","ES","NZ","Spain","New Zealand",136.752
+"1079","ES","OM","Spain","Oman",375.466
+"1080","ES","PA","Spain","Panama",2670.939
+"1081","ES","PE","Spain","Peru",30650.606
+"1082","ES","PF","Spain","French Polynesia",1.033
+"1083","ES","PH","Spain","Philippines",13.464
+"1084","ES","PK","Spain","Pakistan",36.27
+"1085","ES","PL","Spain","Poland",60694.133
+"1086","ES","PT","Spain","Portugal",133102.387
+"1087","ES","PY","Spain","Paraguay",59.612
+"1088","ES","QA","Spain","Qatar",1831.835
+"1089","ES","RO","Spain","Romania",3033.245
+"1090","ES","RS","Spain","Serbia",12.568
+"1091","ES","RU","Spain","Russia",786.433
+"1092","ES","RW","Spain","Rwanda",0.244
+"1093","ES","SA","Spain","Saudi Arabia",1468.988
+"1094","ES","SC","Spain","Seychelles",26.655
+"1095","ES","SE","Spain","Sweden",7580.454
+"1096","ES","SG","Spain","Singapore",4763.687
+"1097","ES","SI","Spain","Slovenia",41.994
+"1098","ES","SK","Spain","Slovakia",436.405
+"1099","ES","SL","Spain","Sierra Leone",0.118
+"1100","ES","SN","Spain","Senegal",32.389
+"1101","ES","ST","Spain","Sao Tome and Principe",1.472
+"1102","ES","SV","Spain","El Salvador",118.297
+"1103","ES","SY","Spain","Syria",0.167
+"1104","ES","SZ","Spain","Eswatini",0.517
+"1105","ES","TG","Spain","Togo",4.781
+"1106","ES","TH","Spain","Thailand",92.224
+"1107","ES","TL","Spain","Timor Leste",0.749
+"1108","ES","TM","Spain","Turkmenistan",0.232
+"1109","ES","TN","Spain","Tunisia",9.273
+"1110","ES","TR","Spain","Turkey",52639.798
+"1111","ES","TT","Spain","Trinidad and Tobago",0.365
+"1112","ES","TW","Spain","Chinese Taipei",1900.894
+"1113","ES","TZ","Spain","Tanzania",23.535
+"1114","ES","UA","Spain","Ukraine",56.054
+"1115","ES","UG","Spain","Uganda",0.85
+"1116","ES","US","Spain","United States",219193.97
+"1117","ES","UY","Spain","Uruguay",8434.828
+"1118","ES","UZ","Spain","Uzbekistan",1.586
+"1119","ES","VC","Spain","St. Vincent and the Grenadines",3.991
+"1120","ES","VE","Spain","Venezuela",1053.935
+"1121","ES","VG","Spain","Virgin Islands (British)",3427.108
+"1122","ES","VN","Spain","Vietnam",139.784
+"1123","ES","ZA","Spain","South Africa",209.651
+"1124","ES","ZM","Spain","Zambia",0.361
+"1125","ES","ZW","Spain","Zimbabwe",0.456
+"1126","FI","AT","Finland","Austria",724
+"1127","FI","AU","Finland","Australia",332
+"1128","FI","BE","Finland","Belgium",2512
+"1129","FI","BR","Finland","Brazil",39
+"1130","FI","CA","Finland","Canada",3280
+"1131","FI","CH","Finland","Switzerland",799
+"1132","FI","CN","Finland","China",581
+"1133","FI","CZ","Finland","Czechia",104
+"1134","FI","DE","Finland","Germany",8082
+"1135","FI","EE","Finland","Estonia",1233
+"1136","FI","EG","Finland","Egypt",4
+"1137","FI","ES","Finland","Spain",281
+"1138","FI","FR","Finland","France",4362
+"1139","FI","GB","Finland","United Kingdom",4180
+"1140","FI","HK","Finland","Hong Kong SAR",79
+"1141","FI","HR","Finland","Croatia",1
+"1142","FI","HU","Finland","Hungary",31
+"1143","FI","IE","Finland","Ireland",544
+"1144","FI","IN","Finland","India",77
+"1145","FI","JP","Finland","Japan",219
+"1146","FI","KR","Finland","Korea",146
+"1147","FI","LT","Finland","Lithuania",1421
+"1148","FI","LU","Finland","Luxembourg",5008
+"1149","FI","LV","Finland","Latvia",735
+"1150","FI","MY","Finland","Malaysia",10
+"1151","FI","NL","Finland","Netherlands",2403
+"1152","FI","NZ","Finland","New Zealand",110
+"1153","FI","PL","Finland","Poland",273
+"1154","FI","PT","Finland","Portugal",171
+"1155","FI","SA","Finland","Saudi Arabia",20
+"1156","FI","SK","Finland","Slovakia",44
+"1157","FI","TH","Finland","Thailand",17
+"1158","FI","TN","Finland","Tunisia",5
+"1159","FI","TR","Finland","Turkey",233
+"1160","FI","TW","Finland","Chinese Taipei",6
+"1161","FI","UA","Finland","Ukraine",1
+"1162","FI","ZA","Finland","South Africa",7
+"1163","FR","AD","France","Andorra",61
+"1164","FR","AE","France","United Arab Emirates",19888
+"1165","FR","AF","France","Afghanistan",2
+"1166","FR","AG","France","Antigua and Barbuda",1
+"1167","FR","AI","France","Anguilla",416
+"1168","FR","AL","France","Albania",2
+"1169","FR","AM","France","Armenia",148
+"1170","FR","AO","France","Angola",1085
+"1171","FR","AR","France","Argentina",1322
+"1172","FR","AT","France","Austria",10004
+"1173","FR","AU","France","Australia",30133
+"1174","FR","AZ","France","Azerbaijan",1287
+"1175","FR","BA","France","Bosnia and Herzegovina",39
+"1176","FR","BB","France","Barbados",84
+"1177","FR","BD","France","Bangladesh",585
+"1178","FR","BE","France","Belgium",274711
+"1179","FR","BF","France","Burkina Faso",1397
+"1180","FR","BG","France","Bulgaria",1002
+"1181","FR","BH","France","Bahrain",4110
+"1182","FR","BI","France","Burundi",86
+"1183","FR","BJ","France","Benin",845
+"1184","FR","BM","France","Bermuda",7100
+"1185","FR","BN","France","Brunei",104
+"1186","FR","BO","France","Bolivia",470
+"1187","FR","BQ","France","Bonaire, Sint Eustatius and Saba",64
+"1188","FR","BR","France","Brazil",23673
+"1189","FR","BS","France","Bahamas",1594
+"1190","FR","BW","France","Botswana",102
+"1191","FR","BY","France","Belarus",32
+"1192","FR","BZ","France","Belize",40
+"1193","FR","CA","France","Canada",44932
+"1194","FR","CD","France","Congo Democratic Republic",23
+"1195","FR","CF","France","Central African Republic",1
+"1196","FR","CG","France","Congo",615
+"1197","FR","CH","France","Switzerland",89598
+"1198","FR","CI","France","Cote d'Ivoire",7662
+"1199","FR","CL","France","Chile",4374
+"1200","FR","CM","France","Cameroon",4368
+"1201","FR","CN","France","China",49701
+"1202","FR","CO","France","Colombia",3489
+"1203","FR","CR","France","Costa Rica",288
+"1204","FR","CU","France","Cuba",234
+"1205","FR","CV","France","Cape Verde",58
+"1206","FR","CW","France","Curacao",81
+"1207","FR","CY","France","Cyprus",1123
+"1208","FR","CZ","France","Czechia",55274
+"1209","FR","DE","France","Germany",204557
+"1210","FR","DJ","France","Djibouti",21
+"1211","FR","DK","France","Denmark",11318
+"1212","FR","DM","France","Dominica",18
+"1213","FR","DO","France","Dominican Republic",1104
+"1214","FR","DZ","France","Algeria",6866
+"1215","FR","EC","France","Ecuador",980
+"1216","FR","EE","France","Estonia",70
+"1217","FR","EG","France","Egypt",9587
+"1218","FR","ES","France","Spain",112857
+"1219","FR","ET","France","Ethiopia",347
+"1220","FR","FI","France","Finland",20902
+"1221","FR","FJ","France","Fiji",1
+"1222","FR","FM","France","Micronesia",25
+"1223","FR","FO","France","Faeroe Islands",3
+"1224","FR","GA","France","Gabon",648
+"1225","FR","GB","France","United Kingdom",243357
+"1226","FR","GE","France","Georgia",715
+"1227","FR","GG","France","Guernsey",3399
+"1228","FR","GH","France","Ghana",2057
+"1229","FR","GI","France","Gibraltar",102
+"1230","FR","GL","France","Greenland",1
+"1231","FR","GM","France","Gambia",6
+"1232","FR","GN","France","Guinea",967
+"1233","FR","GQ","France","Equatorial Guinea",268
+"1234","FR","GR","France","Greece",1401
+"1235","FR","GT","France","Guatemala",47
+"1236","FR","GW","France","Guinea-Bissau",1
+"1237","FR","GY","France","Guyana",2
+"1238","FR","HK","France","Hong Kong SAR",34867
+"1239","FR","HN","France","Honduras",424
+"1240","FR","HR","France","Croatia",716
+"1241","FR","HT","France","Haiti",21
+"1242","FR","HU","France","Hungary",3087
+"1243","FR","ID","France","Indonesia",6618
+"1244","FR","IE","France","Ireland",53472
+"1245","FR","IL","France","Israel",3845
+"1246","FR","IM","France","Isle of Man",1090
+"1247","FR","IN","France","India",26870
+"1248","FR","IQ","France","Iraq",508
+"1249","FR","IR","France","Iran",14
+"1250","FR","IS","France","Iceland",83
+"1251","FR","IT","France","Italy",358611
+"1252","FR","JE","France","Jersey",6703
+"1253","FR","JM","France","Jamaica",70
+"1254","FR","JO","France","Jordan",1383
+"1255","FR","JP","France","Japan",204994
+"1256","FR","KE","France","Kenya",1581
+"1257","FR","KH","France","Cambodia",780
+"1258","FR","KM","France","Comoros",1
+"1259","FR","KN","France","St.Kitts - Nevis",36
+"1260","FR","KP","France","North Korea",16
+"1261","FR","KR","France","Korea",27604
+"1262","FR","KW","France","Kuwait",2174
+"1263","FR","KY","France","Cayman Islands",65568
+"1264","FR","KZ","France","Kazakhstan",245
+"1265","FR","LA","France","Laos",73
+"1266","FR","LB","France","Lebanon",394
+"1267","FR","LC","France","St. Lucia",4
+"1268","FR","LI","France","Liechtenstein",93
+"1269","FR","LK","France","Sri Lanka",451
+"1270","FR","LR","France","Liberia",2560
+"1271","FR","LT","France","Lithuania",213
+"1272","FR","LU","France","Luxembourg",175554
+"1273","FR","LV","France","Latvia",288
+"1274","FR","LY","France","Libya",3
+"1275","FR","MA","France","Morocco",28455
+"1276","FR","MD","France","Moldova",3
+"1277","FR","ME","France","Montenegro",245
+"1278","FR","MG","France","Madagascar",1059
+"1279","FR","MH","France","Marshall Islands",5858
+"1280","FR","MK","France","North Macedonia",4
+"1281","FR","ML","France","Mali",252
+"1282","FR","MM","France","Myanmar",23
+"1283","FR","MN","France","Mongolia",731
+"1284","FR","MO","France","Macao SAR",114
+"1285","FR","MR","France","Mauritania",227
+"1286","FR","MT","France","Malta",995
+"1287","FR","MU","France","Mauritius",1641
+"1288","FR","MV","France","Maldives",13
+"1289","FR","MW","France","Malawi",1
+"1290","FR","MX","France","Mexico",10013
+"1291","FR","MY","France","Malaysia",3331
+"1292","FR","MZ","France","Mozambique",553
+"1293","FR","NC","France","New Caledonia",8507
+"1294","FR","NE","France","Niger",208
+"1295","FR","NG","France","Nigeria",1649
+"1296","FR","NI","France","Nicaragua",58
+"1297","FR","NL","France","Netherlands",104916
+"1298","FR","NO","France","Norway",12113
+"1299","FR","NP","France","Nepal",1
+"1300","FR","NZ","France","New Zealand",1365
+"1301","FR","OM","France","Oman",3578
+"1302","FR","PA","France","Panama",6770
+"1303","FR","PE","France","Peru",2081
+"1304","FR","PF","France","French Polynesia",4651
+"1305","FR","PG","France","Papua New Guinea",327
+"1306","FR","PH","France","Philippines",2122
+"1307","FR","PK","France","Pakistan",575
+"1308","FR","PL","France","Poland",50355
+"1309","FR","PS","France","Palestinian Territory",22
+"1310","FR","PT","France","Portugal",22972
+"1311","FR","PY","France","Paraguay",86
+"1312","FR","QA","France","Qatar",13887
+"1313","FR","RO","France","Romania",14443
+"1314","FR","RS","France","Serbia",2422
+"1315","FR","RU","France","Russia",27050
+"1316","FR","RW","France","Rwanda",105
+"1317","FR","SA","France","Saudi Arabia",12080
+"1318","FR","SC","France","Seychelles",326
+"1319","FR","SD","France","Sudan",108
+"1320","FR","SE","France","Sweden",33245
+"1321","FR","SG","France","Singapore",41098
+"1322","FR","SI","France","Slovenia",-174
+"1323","FR","SK","France","Slovakia",3211
+"1324","FR","SM","France","San Marino",20
+"1325","FR","SN","France","Senegal",6724
+"1326","FR","SO","France","Somalia",2
+"1327","FR","SR","France","Suriname",40
+"1328","FR","SV","France","El Salvador",112
+"1329","FR","SX","France","Sint Maarten",23
+"1330","FR","SY","France","Syria",1
+"1331","FR","TC","France","Turks and Caicos Islands",38
+"1332","FR","TD","France","Chad",614
+"1333","FR","TG","France","Togo",898
+"1334","FR","TH","France","Thailand",2103
+"1335","FR","TJ","France","Tajikistan",7
+"1336","FR","TM","France","Turkmenistan",16
+"1337","FR","TN","France","Tunisia",4025
+"1338","FR","TR","France","Turkey",22757
+"1339","FR","TT","France","Trinidad and Tobago",5
+"1340","FR","TW","France","Chinese Taipei",20952
+"1341","FR","TZ","France","Tanzania",416
+"1342","FR","UA","France","Ukraine",3947
+"1343","FR","UG","France","Uganda",606
+"1344","FR","US","France","United States",569541
+"1345","FR","UY","France","Uruguay",361
+"1346","FR","UZ","France","Uzbekistan",192
+"1347","FR","VC","France","St. Vincent and the Grenadines",1
+"1348","FR","VE","France","Venezuela",917
+"1349","FR","VG","France","Virgin Islands (British)",2913
+"1350","FR","VN","France","Vietnam",3581
+"1351","FR","VU","France","Vanuatu",2
+"1352","FR","WF","France","Wallis and Futuna",84
+"1353","FR","WS","France","Samoa",105
+"1354","FR","YE","France","Yemen",64
+"1355","FR","ZA","France","South Africa",3198
+"1356","FR","ZM","France","Zambia",129
+"1357","FR","ZW","France","Zimbabwe",21
+"1358","GB","AD","United Kingdom","Andorra",7
+"1359","GB","AE","United Kingdom","United Arab Emirates",60597
+"1360","GB","AF","United Kingdom","Afghanistan",20
+"1361","GB","AL","United Kingdom","Albania",3
+"1362","GB","AM","United Kingdom","Armenia",643
+"1363","GB","AO","United Kingdom","Angola",856
+"1364","GB","AR","United Kingdom","Argentina",5121
+"1365","GB","AT","United Kingdom","Austria",5081
+"1366","GB","AU","United Kingdom","Australia",73690
+"1367","GB","AW","United Kingdom","Aruba",40
+"1368","GB","AZ","United Kingdom","Azerbaijan",96
+"1369","GB","BA","United Kingdom","Bosnia and Herzegovina",1
+"1370","GB","BB","United Kingdom","Barbados",93
+"1371","GB","BD","United Kingdom","Bangladesh",14438
+"1372","GB","BE","United Kingdom","Belgium",6283
+"1373","GB","BF","United Kingdom","Burkina Faso",4
+"1374","GB","BG","United Kingdom","Bulgaria",15
+"1375","GB","BH","United Kingdom","Bahrain",9186
+"1376","GB","BI","United Kingdom","Burundi",8
+"1377","GB","BJ","United Kingdom","Benin",7
+"1378","GB","BM","United Kingdom","Bermuda",7641
+"1379","GB","BN","United Kingdom","Brunei",1026
+"1380","GB","BO","United Kingdom","Bolivia",3
+"1381","GB","BR","United Kingdom","Brazil",30666
+"1382","GB","BS","United Kingdom","Bahamas",2139
+"1383","GB","BT","United Kingdom","Bhutan",1
+"1384","GB","BW","United Kingdom","Botswana",933
+"1385","GB","BY","United Kingdom","Belarus",-4
+"1386","GB","BZ","United Kingdom","Belize",34
+"1387","GB","CA","United Kingdom","Canada",136274
+"1388","GB","CD","United Kingdom","Congo Democratic Republic",1
+"1389","GB","CG","United Kingdom","Congo",9
+"1390","GB","CH","United Kingdom","Switzerland",77633
+"1391","GB","CI","United Kingdom","Cote d'Ivoire",668
+"1392","GB","CL","United Kingdom","Chile",1775
+"1393","GB","CM","United Kingdom","Cameroon",608
+"1394","GB","CN","United Kingdom","China",234587
+"1395","GB","CO","United Kingdom","Colombia",310
+"1396","GB","CR","United Kingdom","Costa Rica",38
+"1397","GB","CW","United Kingdom","Curacao",88
+"1398","GB","CY","United Kingdom","Cyprus",1077
+"1399","GB","CZ","United Kingdom","Czechia",5500
+"1400","GB","DE","United Kingdom","Germany",192164
+"1401","GB","DK","United Kingdom","Denmark",6406
+"1402","GB","DO","United Kingdom","Dominican Republic",-4
+"1403","GB","DZ","United Kingdom","Algeria",693
+"1404","GB","EC","United Kingdom","Ecuador",26
+"1405","GB","EE","United Kingdom","Estonia",24
+"1406","GB","EG","United Kingdom","Egypt",12434
+"1407","GB","ES","United Kingdom","Spain",21497
+"1408","GB","ET","United Kingdom","Ethiopia",47
+"1409","GB","FI","United Kingdom","Finland",5338
+"1410","GB","FJ","United Kingdom","Fiji",15
+"1411","GB","FK","United Kingdom","Falkland Islands",30
+"1412","GB","FM","United Kingdom","Micronesia",22
+"1413","GB","FO","United Kingdom","Faeroe Islands",-8
+"1414","GB","FR","United Kingdom","France",351742
+"1415","GB","GA","United Kingdom","Gabon",125
+"1416","GB","GE","United Kingdom","Georgia",9
+"1417","GB","GG","United Kingdom","Guernsey",12423
+"1418","GB","GH","United Kingdom","Ghana",3159
+"1419","GB","GI","United Kingdom","Gibraltar",1127
+"1420","GB","GM","United Kingdom","Gambia",120
+"1421","GB","GQ","United Kingdom","Equatorial Guinea",30
+"1422","GB","GR","United Kingdom","Greece",3925
+"1423","GB","GT","United Kingdom","Guatemala",39
+"1424","GB","GY","United Kingdom","Guyana",1
+"1425","GB","HK","United Kingdom","Hong Kong SAR",512206
+"1426","GB","HN","United Kingdom","Honduras",7
+"1427","GB","HR","United Kingdom","Croatia",1094
+"1428","GB","HT","United Kingdom","Haiti",5
+"1429","GB","HU","United Kingdom","Hungary",469
+"1430","GB","ID","United Kingdom","Indonesia",17742
+"1431","GB","IE","United Kingdom","Ireland",72211
+"1432","GB","IL","United Kingdom","Israel",11408
+"1433","GB","IM","United Kingdom","Isle of Man",4349
+"1434","GB","IN","United Kingdom","India",81338
+"1435","GB","IQ","United Kingdom","Iraq",412
+"1436","GB","IR","United Kingdom","Iran",3
+"1437","GB","IS","United Kingdom","Iceland",81
+"1438","GB","IT","United Kingdom","Italy",16356
+"1439","GB","JE","United Kingdom","Jersey",27831
+"1440","GB","JM","United Kingdom","Jamaica",115
+"1441","GB","JO","United Kingdom","Jordan",1214
+"1442","GB","JP","United Kingdom","Japan",183561
+"1443","GB","KE","United Kingdom","Kenya",3458
+"1444","GB","KG","United Kingdom","Kyrgyz Republic",46
+"1445","GB","KH","United Kingdom","Cambodia",8
+"1446","GB","KP","United Kingdom","North Korea",1
+"1447","GB","KR","United Kingdom","Korea",97326
+"1448","GB","KW","United Kingdom","Kuwait",3586
+"1449","GB","KY","United Kingdom","Cayman Islands",53626
+"1450","GB","KZ","United Kingdom","Kazakhstan",220
+"1451","GB","LA","United Kingdom","Laos",3
+"1452","GB","LB","United Kingdom","Lebanon",332
+"1453","GB","LC","United Kingdom","St. Lucia",1
+"1454","GB","LI","United Kingdom","Liechtenstein",154
+"1455","GB","LK","United Kingdom","Sri Lanka",4026
+"1456","GB","LR","United Kingdom","Liberia",199
+"1457","GB","LT","United Kingdom","Lithuania",27
+"1458","GB","LU","United Kingdom","Luxembourg",38804
+"1459","GB","LV","United Kingdom","Latvia",-3
+"1460","GB","LY","United Kingdom","Libya",43
+"1461","GB","MA","United Kingdom","Morocco",228
+"1462","GB","ME","United Kingdom","Montenegro",4
+"1463","GB","MG","United Kingdom","Madagascar",62
+"1464","GB","MH","United Kingdom","Marshall Islands",422
+"1465","GB","MK","United Kingdom","North Macedonia",12
+"1466","GB","MM","United Kingdom","Myanmar",7
+"1467","GB","MN","United Kingdom","Mongolia",179
+"1468","GB","MO","United Kingdom","Macao SAR",8683
+"1469","GB","MT","United Kingdom","Malta",6679
+"1470","GB","MU","United Kingdom","Mauritius",3768
+"1471","GB","MV","United Kingdom","Maldives",530
+"1472","GB","MW","United Kingdom","Malawi",24
+"1473","GB","MX","United Kingdom","Mexico",31953
+"1474","GB","MY","United Kingdom","Malaysia",37618
+"1475","GB","MZ","United Kingdom","Mozambique",54
+"1476","GB","NC","United Kingdom","New Caledonia",4
+"1477","GB","NE","United Kingdom","Niger",5
+"1478","GB","NG","United Kingdom","Nigeria",6957
+"1479","GB","NL","United Kingdom","Netherlands",58408
+"1480","GB","NO","United Kingdom","Norway",8402
+"1481","GB","NP","United Kingdom","Nepal",1251
+"1482","GB","NZ","United Kingdom","New Zealand",7821
+"1483","GB","OM","United Kingdom","Oman",7771
+"1484","GB","PA","United Kingdom","Panama",1542
+"1485","GB","PE","United Kingdom","Peru",651
+"1486","GB","PF","United Kingdom","French Polynesia",3
+"1487","GB","PG","United Kingdom","Papua New Guinea",98
+"1488","GB","PH","United Kingdom","Philippines",6383
+"1489","GB","PK","United Kingdom","Pakistan",7040
+"1490","GB","PL","United Kingdom","Poland",2651
+"1491","GB","PS","United Kingdom","Palestinian Territory",5
+"1492","GB","PT","United Kingdom","Portugal",1057
+"1493","GB","PU","United Kingdom","U.S. Miscellaneous Pacific Islands",3
+"1494","GB","PY","United Kingdom","Paraguay",-7
+"1495","GB","QA","United Kingdom","Qatar",23296
+"1496","GB","RO","United Kingdom","Romania",98
+"1497","GB","RS","United Kingdom","Serbia",8
+"1498","GB","RU","United Kingdom","Russia",1585
+"1499","GB","RW","United Kingdom","Rwanda",66
+"1500","GB","SA","United Kingdom","Saudi Arabia",15973
+"1501","GB","SB","United Kingdom","Solomon Islands",11
+"1502","GB","SC","United Kingdom","Seychelles",132
+"1503","GB","SD","United Kingdom","Sudan",1
+"1504","GB","SE","United Kingdom","Sweden",13516
+"1505","GB","SG","United Kingdom","Singapore",158564
+"1506","GB","SI","United Kingdom","Slovenia",-44
+"1507","GB","SK","United Kingdom","Slovakia",191
+"1508","GB","SL","United Kingdom","Sierra Leone",73
+"1509","GB","SN","United Kingdom","Senegal",589
+"1510","GB","SV","United Kingdom","El Salvador",7
+"1511","GB","SZ","United Kingdom","Eswatini",5
+"1512","GB","TC","United Kingdom","Turks and Caicos Islands",35
+"1513","GB","TG","United Kingdom","Togo",16
+"1514","GB","TH","United Kingdom","Thailand",12976
+"1515","GB","TJ","United Kingdom","Tajikistan",-1
+"1516","GB","TL","United Kingdom","Timor Leste",1
+"1517","GB","TN","United Kingdom","Tunisia",13
+"1518","GB","TR","United Kingdom","Turkey",11158
+"1519","GB","TT","United Kingdom","Trinidad and Tobago",75
+"1520","GB","TW","United Kingdom","Chinese Taipei",62392
+"1521","GB","TZ","United Kingdom","Tanzania",1128
+"1522","GB","UA","United Kingdom","Ukraine",53
+"1523","GB","UG","United Kingdom","Uganda",1217
+"1524","GB","US","United Kingdom","United States",1175211
+"1525","GB","UY","United Kingdom","Uruguay",1415
+"1526","GB","UZ","United Kingdom","Uzbekistan",-11
+"1527","GB","VC","United Kingdom","St. Vincent and the Grenadines",4
+"1528","GB","VE","United Kingdom","Venezuela",190
+"1529","GB","VN","United Kingdom","Vietnam",11286
+"1530","GB","VU","United Kingdom","Vanuatu",1
+"1531","GB","WS","United Kingdom","Samoa",30
+"1532","GB","YE","United Kingdom","Yemen",67
+"1533","GB","ZA","United Kingdom","South Africa",10125
+"1534","GB","ZM","United Kingdom","Zambia",643
+"1535","GB","ZW","United Kingdom","Zimbabwe",252
+"1536","GR","AE","Greece","United Arab Emirates",61
+"1537","GR","AL","Greece","Albania",123
+"1538","GR","AT","Greece","Austria",128
+"1539","GR","AU","Greece","Australia",101
+"1540","GR","BE","Greece","Belgium",277
+"1541","GR","BG","Greece","Bulgaria",6685
+"1542","GR","BM","Greece","Bermuda",238
+"1543","GR","CA","Greece","Canada",17
+"1544","GR","CH","Greece","Switzerland",166
+"1545","GR","CL","Greece","Chile",45
+"1546","GR","CN","Greece","China",19
+"1547","GR","CY","Greece","Cyprus",10452
+"1548","GR","DE","Greece","Germany",4217
+"1549","GR","DK","Greece","Denmark",33
+"1550","GR","EE","Greece","Estonia",2
+"1551","GR","EG","Greece","Egypt",90
+"1552","GR","ES","Greece","Spain",4256
+"1553","GR","FI","Greece","Finland",143
+"1554","GR","FR","Greece","France",1917
+"1555","GR","GB","Greece","United Kingdom",5916
+"1556","GR","GE","Greece","Georgia",8
+"1557","GR","GG","Greece","Guernsey",25
+"1558","GR","HK","Greece","Hong Kong SAR",22
+"1559","GR","HR","Greece","Croatia",34
+"1560","GR","HU","Greece","Hungary",89
+"1561","GR","ID","Greece","Indonesia",27
+"1562","GR","IE","Greece","Ireland",13708
+"1563","GR","IL","Greece","Israel",22
+"1564","GR","IM","Greece","Isle of Man",259
+"1565","GR","IT","Greece","Italy",7886
+"1566","GR","JE","Greece","Jersey",14
+"1567","GR","JO","Greece","Jordan",3
+"1568","GR","JP","Greece","Japan",17
+"1569","GR","KR","Greece","Korea",11
+"1570","GR","KW","Greece","Kuwait",11
+"1571","GR","KY","Greece","Cayman Islands",48
+"1572","GR","LR","Greece","Liberia",4413
+"1573","GR","LT","Greece","Lithuania",10
+"1574","GR","LU","Greece","Luxembourg",2143
+"1575","GR","LV","Greece","Latvia",18
+"1576","GR","ME","Greece","Montenegro",15
+"1577","GR","MH","Greece","Marshall Islands",5535
+"1578","GR","MK","Greece","North Macedonia",1976
+"1579","GR","MT","Greece","Malta",414
+"1580","GR","MX","Greece","Mexico",64
+"1581","GR","MY","Greece","Malaysia",5
+"1582","GR","NL","Greece","Netherlands",831
+"1583","GR","NO","Greece","Norway",17
+"1584","GR","NZ","Greece","New Zealand",3
+"1585","GR","PA","Greece","Panama",429
+"1586","GR","PL","Greece","Poland",243
+"1587","GR","PT","Greece","Portugal",451
+"1588","GR","QA","Greece","Qatar",128
+"1589","GR","RO","Greece","Romania",5568
+"1590","GR","RS","Greece","Serbia",2860
+"1591","GR","RU","Greece","Russia",107
+"1592","GR","SA","Greece","Saudi Arabia",118
+"1593","GR","SC","Greece","Seychelles",41
+"1594","GR","SE","Greece","Sweden",64
+"1595","GR","SG","Greece","Singapore",2
+"1596","GR","SI","Greece","Slovenia",39
+"1597","GR","SK","Greece","Slovakia",16
+"1598","GR","TR","Greece","Turkey",3
+"1599","GR","UA","Greece","Ukraine",177
+"1600","GR","US","Greece","United States",1349
+"1601","GR","VC","Greece","St. Vincent and the Grenadines",2
+"1602","GR","ZA","Greece","South Africa",6
+"1603","IE","AD","Ireland","Andorra",0.009
+"1604","IE","AE","Ireland","United Arab Emirates",21.731
+"1605","IE","AR","Ireland","Argentina",0.463
+"1606","IE","AT","Ireland","Austria",175.575
+"1607","IE","AU","Ireland","Australia",750.025
+"1608","IE","AZ","Ireland","Azerbaijan",0.005
+"1609","IE","BB","Ireland","Barbados",0.425
+"1610","IE","BD","Ireland","Bangladesh",0.06
+"1611","IE","BE","Ireland","Belgium",774.432
+"1612","IE","BG","Ireland","Bulgaria",0.432
+"1613","IE","BH","Ireland","Bahrain",1.739
+"1614","IE","BM","Ireland","Bermuda",0.846
+"1615","IE","BN","Ireland","Brunei",0.254
+"1616","IE","BR","Ireland","Brazil",66.544
+"1617","IE","BS","Ireland","Bahamas",36.927
+"1618","IE","BW","Ireland","Botswana",0.561
+"1619","IE","CA","Ireland","Canada",2020.823
+"1620","IE","CD","Ireland","Congo Democratic Republic",0.002
+"1621","IE","CH","Ireland","Switzerland",330.875
+"1622","IE","CL","Ireland","Chile",2.513
+"1623","IE","CN","Ireland","China",1.555
+"1624","IE","CO","Ireland","Colombia",0.085
+"1625","IE","CW","Ireland","Curacao",0.649
+"1626","IE","CY","Ireland","Cyprus",22.713
+"1627","IE","CZ","Ireland","Czechia",37.496
+"1628","IE","DE","Ireland","Germany",1443.205
+"1629","IE","DK","Ireland","Denmark",424.993
+"1630","IE","EE","Ireland","Estonia",0.051
+"1631","IE","EG","Ireland","Egypt",0.463
+"1632","IE","ES","Ireland","Spain",3664.784
+"1633","IE","FI","Ireland","Finland",418.194
+"1634","IE","FK","Ireland","Falkland Islands",0.241
+"1635","IE","FR","Ireland","France",6955.004
+"1636","IE","GA","Ireland","Gabon",0.171
+"1637","IE","GB","Ireland","United Kingdom",65526.152
+"1638","IE","GE","Ireland","Georgia",0.376
+"1639","IE","GG","Ireland","Guernsey",54.36
+"1640","IE","GH","Ireland","Ghana",0.396
+"1641","IE","GI","Ireland","Gibraltar",62.27
+"1642","IE","GM","Ireland","Gambia",0.265
+"1643","IE","GN","Ireland","Guinea",0.007
+"1644","IE","GR","Ireland","Greece",7.932
+"1645","IE","GY","Ireland","Guyana",0.203
+"1646","IE","HK","Ireland","Hong Kong SAR",16.217
+"1647","IE","HR","Ireland","Croatia",3.236
+"1648","IE","HU","Ireland","Hungary",1.519
+"1649","IE","ID","Ireland","Indonesia",0.136
+"1650","IE","IL","Ireland","Israel",1.822
+"1651","IE","IM","Ireland","Isle of Man",438.651
+"1652","IE","IN","Ireland","India",2.594
+"1653","IE","IS","Ireland","Iceland",15.192
+"1654","IE","IT","Ireland","Italy",618.684
+"1655","IE","JE","Ireland","Jersey",615.502
+"1656","IE","JM","Ireland","Jamaica",0.521
+"1657","IE","JP","Ireland","Japan",80.249
+"1658","IE","KE","Ireland","Kenya",0.573
+"1659","IE","KR","Ireland","Korea",48.423
+"1660","IE","KW","Ireland","Kuwait",0.206
+"1661","IE","KY","Ireland","Cayman Islands",2.175
+"1662","IE","LK","Ireland","Sri Lanka",0.219
+"1663","IE","LT","Ireland","Lithuania",53.452
+"1664","IE","LU","Ireland","Luxembourg",1720.353
+"1665","IE","LV","Ireland","Latvia",74.818
+"1666","IE","MA","Ireland","Morocco",0.036
+"1667","IE","MD","Ireland","Moldova",0.17
+"1668","IE","MT","Ireland","Malta",96.868
+"1669","IE","MU","Ireland","Mauritius",0.28
+"1670","IE","MW","Ireland","Malawi",0.001
+"1671","IE","MX","Ireland","Mexico",13.996
+"1672","IE","MY","Ireland","Malaysia",2.794
+"1673","IE","NI","Ireland","Nicaragua",0.08
+"1674","IE","NL","Ireland","Netherlands",1788.096
+"1675","IE","NO","Ireland","Norway",1023.199
+"1676","IE","NZ","Ireland","New Zealand",143.115
+"1677","IE","OM","Ireland","Oman",0.196
+"1678","IE","PG","Ireland","Papua New Guinea",0.137
+"1679","IE","PH","Ireland","Philippines",0.327
+"1680","IE","PK","Ireland","Pakistan",1.224
+"1681","IE","PL","Ireland","Poland",255.595
+"1682","IE","PT","Ireland","Portugal",1111.162
+"1683","IE","PU","Ireland","U.S. Miscellaneous Pacific Islands",0.008
+"1684","IE","PY","Ireland","Paraguay",0.12
+"1685","IE","QA","Ireland","Qatar",3.111
+"1686","IE","RO","Ireland","Romania",0.853
+"1687","IE","RU","Ireland","Russia",2.731
+"1688","IE","SA","Ireland","Saudi Arabia",0.742
+"1689","IE","SE","Ireland","Sweden",1049.69
+"1690","IE","SG","Ireland","Singapore",299.365
+"1691","IE","SI","Ireland","Slovenia",225.352
+"1692","IE","SK","Ireland","Slovakia",32.381
+"1693","IE","SO","Ireland","Somalia",0.171
+"1694","IE","TC","Ireland","Turks and Caicos Islands",0.002
+"1695","IE","TH","Ireland","Thailand",2.29
+"1696","IE","TN","Ireland","Tunisia",0.044
+"1697","IE","TR","Ireland","Turkey",7.409
+"1698","IE","UA","Ireland","Ukraine",0.15
+"1699","IE","US","Ireland","United States",8092.93
+"1700","IE","VA","Ireland","Vatican City State",0.058
+"1701","IE","ZA","Ireland","South Africa",15.412
+"1702","IE","ZW","Ireland","Zimbabwe",0.34
+"1703","IT","AD","Italy","Andorra",11.881
+"1704","IT","AE","Italy","United Arab Emirates",4890.69
+"1705","IT","AL","Italy","Albania",1430.819
+"1706","IT","AM","Italy","Armenia",16.924
+"1707","IT","AT","Italy","Austria",105348.676
+"1708","IT","AU","Italy","Australia",2991.553
+"1709","IT","BB","Italy","Barbados",16.108
+"1710","IT","BE","Italy","Belgium",11006.914
+"1711","IT","BF","Italy","Burkina Faso",4.535
+"1712","IT","BG","Italy","Bulgaria",14703.465
+"1713","IT","BO","Italy","Bolivia",4.852
+"1714","IT","BR","Italy","Brazil",1780.982
+"1715","IT","BW","Italy","Botswana",2.877
+"1716","IT","BY","Italy","Belarus",113.802
+"1717","IT","BZ","Italy","Belize",4.651
+"1718","IT","CA","Italy","Canada",2963.707
+"1719","IT","CG","Italy","Congo",9.777
+"1720","IT","CH","Italy","Switzerland",22468.442
+"1721","IT","CI","Italy","Cote d'Ivoire",14.961
+"1722","IT","CL","Italy","Chile",724.968
+"1723","IT","CN","Italy","China",6826.673
+"1724","IT","CO","Italy","Colombia",288.835
+"1725","IT","CR","Italy","Costa Rica",20.591
+"1726","IT","CU","Italy","Cuba",224.395
+"1727","IT","CV","Italy","Cape Verde",16.977
+"1728","IT","CW","Italy","Curacao",3.561
+"1729","IT","CY","Italy","Cyprus",524.491
+"1730","IT","CZ","Italy","Czechia",24396.629
+"1731","IT","DE","Italy","Germany",201215.72
+"1732","IT","DK","Italy","Denmark",1506.582
+"1733","IT","EE","Italy","Estonia",98.069
+"1734","IT","EG","Italy","Egypt",9757.556
+"1735","IT","ES","Italy","Spain",84437.751
+"1736","IT","FI","Italy","Finland",2537.518
+"1737","IT","FR","Italy","France",75637.939
+"1738","IT","GA","Italy","Gabon",97.144
+"1739","IT","GB","Italy","United Kingdom",44074.16
+"1740","IT","GE","Italy","Georgia",50.131
+"1741","IT","GI","Italy","Gibraltar",9.596
+"1742","IT","GM","Italy","Gambia",2.75
+"1743","IT","GN","Italy","Guinea",11.035
+"1744","IT","GR","Italy","Greece",1292.12
+"1745","IT","HK","Italy","Hong Kong SAR",1135.101
+"1746","IT","HN","Italy","Honduras",61.379
+"1747","IT","HR","Italy","Croatia",33983.84
+"1748","IT","ID","Italy","Indonesia",689.577
+"1749","IT","IE","Italy","Ireland",20727.049
+"1750","IT","IL","Italy","Israel",1241.114
+"1751","IT","IN","Italy","India",1752.594
+"1752","IT","IQ","Italy","Iraq",17.386
+"1753","IT","JE","Italy","Jersey",1026.274
+"1754","IT","JP","Italy","Japan",19368.685
+"1755","IT","KE","Italy","Kenya",588.226
+"1756","IT","KN","Italy","St.Kitts - Nevis",2.566
+"1757","IT","KP","Italy","North Korea",2.457
+"1758","IT","KR","Italy","Korea",3448.585
+"1759","IT","KW","Italy","Kuwait",412.038
+"1760","IT","KY","Italy","Cayman Islands",3215.039
+"1761","IT","KZ","Italy","Kazakhstan",121.165
+"1762","IT","LA","Italy","Laos",141.781
+"1763","IT","LI","Italy","Liechtenstein",235.285
+"1764","IT","LR","Italy","Liberia",366.307
+"1765","IT","LT","Italy","Lithuania",111.346
+"1766","IT","LU","Italy","Luxembourg",32161.696
+"1767","IT","LV","Italy","Latvia",157.074
+"1768","IT","MD","Italy","Moldova",277.179
+"1769","IT","ME","Italy","Montenegro",45.865
+"1770","IT","MG","Italy","Madagascar",21.846
+"1771","IT","MK","Italy","North Macedonia",27.295
+"1772","IT","ML","Italy","Mali",26.562
+"1773","IT","MM","Italy","Myanmar",4.8
+"1774","IT","MO","Italy","Macao SAR",51.191
+"1775","IT","MU","Italy","Mauritius",384.278
+"1776","IT","MX","Italy","Mexico",1883.327
+"1777","IT","MY","Italy","Malaysia",76.346
+"1778","IT","MZ","Italy","Mozambique",20.119
+"1779","IT","NC","Italy","New Caledonia",11.581
+"1780","IT","NE","Italy","Niger",11.222
+"1781","IT","NL","Italy","Netherlands",16725.058
+"1782","IT","NO","Italy","Norway",3765.631
+"1783","IT","NZ","Italy","New Zealand",555.488
+"1784","IT","OM","Italy","Oman",598.435
+"1785","IT","PL","Italy","Poland",5206.363
+"1786","IT","PT","Italy","Portugal",7420.513
+"1787","IT","PY","Italy","Paraguay",3.907
+"1788","IT","QA","Italy","Qatar",8929.851
+"1789","IT","RO","Italy","Romania",14662.978
+"1790","IT","RU","Italy","Russia",24596.378
+"1791","IT","RW","Italy","Rwanda",9.244
+"1792","IT","SA","Italy","Saudi Arabia",1335.787
+"1793","IT","SE","Italy","Sweden",2692.359
+"1794","IT","SG","Italy","Singapore",2338.193
+"1795","IT","SK","Italy","Slovakia",28268.122
+"1796","IT","SM","Italy","San Marino",238.477
+"1797","IT","SN","Italy","Senegal",51.599
+"1798","IT","SR","Italy","Suriname",31.539
+"1799","IT","SV","Italy","El Salvador",2.271
+"1800","IT","TH","Italy","Thailand",55.317
+"1801","IT","TR","Italy","Turkey",6112.351
+"1802","IT","TT","Italy","Trinidad and Tobago",151.231
+"1803","IT","TW","Italy","Chinese Taipei",22.236
+"1804","IT","TZ","Italy","Tanzania",33.755
+"1805","IT","US","Italy","United States",65601.781
+"1806","IT","VA","Italy","Vatican City State",79.685
+"1807","IT","VE","Italy","Venezuela",84.586
+"1808","IT","VN","Italy","Vietnam",185.424
+"1809","IT","ZA","Italy","South Africa",312.532
+"1810","JP","AE","Japan","United Arab Emirates",13558.3
+"1811","JP","AL","Japan","Albania",1.5
+"1812","JP","AM","Japan","Armenia",10.2
+"1813","JP","AR","Japan","Argentina",430.1
+"1814","JP","AT","Japan","Austria",7544.7
+"1815","JP","AU","Japan","Australia",148878.7
+"1816","JP","AZ","Japan","Azerbaijan",232.4
+"1817","JP","BE","Japan","Belgium",40503.5
+"1818","JP","BG","Japan","Bulgaria",37.1
+"1819","JP","BH","Japan","Bahrain",413.4
+"1820","JP","BM","Japan","Bermuda",27123.3
+"1821","JP","BO","Japan","Bolivia",5.5
+"1822","JP","BR","Japan","Brazil",19192.5
+"1823","JP","BS","Japan","Bahamas",1294.1
+"1824","JP","BY","Japan","Belarus",2.3
+"1825","JP","CA","Japan","Canada",95991
+"1826","JP","CH","Japan","Switzerland",35227.2
+"1827","JP","CI","Japan","Cote d'Ivoire",91
+"1828","JP","CL","Japan","Chile",7528.9
+"1829","JP","CN","Japan","China",97844.7
+"1830","JP","CO","Japan","Colombia",2505.1
+"1831","JP","CR","Japan","Costa Rica",30.5
+"1832","JP","CZ","Japan","Czechia",1646.4
+"1833","JP","DE","Japan","Germany",108855
+"1834","JP","DK","Japan","Denmark",24258.4
+"1835","JP","DZ","Japan","Algeria",1
+"1836","JP","EC","Japan","Ecuador",62.5
+"1837","JP","EE","Japan","Estonia",13.4
+"1838","JP","EG","Japan","Egypt",1565.7
+"1839","JP","ES","Japan","Spain",42806.9
+"1840","JP","ET","Japan","Ethiopia",3.1
+"1841","JP","FI","Japan","Finland",7511
+"1842","JP","FJ","Japan","Fiji",0.2
+"1843","JP","FR","Japan","France",193880.8
+"1844","JP","GA","Japan","Gabon",21
+"1845","JP","GB","Japan","United Kingdom",240886.3
+"1846","JP","GE","Japan","Georgia",11.3
+"1847","JP","GG","Japan","Guernsey",2445.6
+"1848","JP","GR","Japan","Greece",306.8
+"1849","JP","HK","Japan","Hong Kong SAR",68306.7
+"1850","JP","HR","Japan","Croatia",230.2
+"1851","JP","HU","Japan","Hungary",1499.2
+"1852","JP","ID","Japan","Indonesia",55756.1
+"1853","JP","IE","Japan","Ireland",76350.5
+"1854","JP","IL","Japan","Israel",5218.6
+"1855","JP","IM","Japan","Isle of Man",610.5
+"1856","JP","IN","Japan","India",41129.2
+"1857","JP","IQ","Japan","Iraq",111.5
+"1858","JP","IS","Japan","Iceland",77.6
+"1859","JP","IT","Japan","Italy",51621.3
+"1860","JP","JE","Japan","Jersey",23715.3
+"1861","JP","JM","Japan","Jamaica",16.7
+"1862","JP","JO","Japan","Jordan",215.9
+"1863","JP","KE","Japan","Kenya",158.4
+"1864","JP","KR","Japan","Korea",39976.8
+"1865","JP","KW","Japan","Kuwait",2845.3
+"1866","JP","KY","Japan","Cayman Islands",856354.6
+"1867","JP","KZ","Japan","Kazakhstan",503.8
+"1868","JP","LA","Japan","Laos",698.3
+"1869","JP","LB","Japan","Lebanon",4.9
+"1870","JP","LK","Japan","Sri Lanka",106.7
+"1871","JP","LR","Japan","Liberia",2794.3
+"1872","JP","LT","Japan","Lithuania",12
+"1873","JP","LU","Japan","Luxembourg",176099.7
+"1874","JP","LV","Japan","Latvia",90.8
+"1875","JP","LY","Japan","Libya",6.4
+"1876","JP","MA","Japan","Morocco",415.4
+"1877","JP","MM","Japan","Myanmar",674.2
+"1878","JP","MX","Japan","Mexico",19412
+"1879","JP","MY","Japan","Malaysia",23420.9
+"1880","JP","NG","Japan","Nigeria",709.1
+"1881","JP","NL","Japan","Netherlands",86758.3
+"1882","JP","NO","Japan","Norway",8458.4
+"1883","JP","NP","Japan","Nepal",0.1
+"1884","JP","NZ","Japan","New Zealand",11541.7
+"1885","JP","OM","Japan","Oman",2604.5
+"1886","JP","PA","Japan","Panama",38093.3
+"1887","JP","PE","Japan","Peru",2135.9
+"1888","JP","PG","Japan","Papua New Guinea",302.8
+"1889","JP","PH","Japan","Philippines",10601.1
+"1890","JP","PK","Japan","Pakistan",40.4
+"1891","JP","PL","Japan","Poland",5431.5
+"1892","JP","PT","Japan","Portugal",1414.6
+"1893","JP","QA","Japan","Qatar",12724.4
+"1894","JP","RO","Japan","Romania",335
+"1895","JP","RS","Japan","Serbia",37.7
+"1896","JP","RU","Japan","Russia",10126.9
+"1897","JP","SA","Japan","Saudi Arabia",18311.8
+"1898","JP","SE","Japan","Sweden",13607.2
+"1899","JP","SG","Japan","Singapore",93291.7
+"1900","JP","SI","Japan","Slovenia",59
+"1901","JP","SK","Japan","Slovakia",203.7
+"1902","JP","SN","Japan","Senegal",100.6
+"1903","JP","TH","Japan","Thailand",105273
+"1904","JP","TJ","Japan","Tajikistan",0.4
+"1905","JP","TM","Japan","Turkmenistan",175.9
+"1906","JP","TR","Japan","Turkey",7852.2
+"1907","JP","TT","Japan","Trinidad and Tobago",183.3
+"1908","JP","TW","Japan","Chinese Taipei",41641.4
+"1909","JP","TZ","Japan","Tanzania",57.8
+"1910","JP","UA","Japan","Ukraine",123
+"1911","JP","US","Japan","United States",1961952.4
+"1912","JP","UY","Japan","Uruguay",1017.8
+"1913","JP","UZ","Japan","Uzbekistan",498.6
+"1914","JP","VE","Japan","Venezuela",45
+"1915","JP","VN","Japan","Vietnam",17018
+"1916","JP","ZA","Japan","South Africa",5199.6
+"1917","JP","ZM","Japan","Zambia",4.6
+"1918","KR","AE","Korea","United Arab Emirates",6695.23
+"1919","KR","AR","Korea","Argentina",17.255
+"1920","KR","AT","Korea","Austria",529.261
+"1921","KR","AU","Korea","Australia",5063.658
+"1922","KR","BE","Korea","Belgium",441.573
+"1923","KR","BG","Korea","Bulgaria",4.422
+"1924","KR","BH","Korea","Bahrain",681.525
+"1925","KR","BM","Korea","Bermuda",282.679
+"1926","KR","BR","Korea","Brazil",2235.717
+"1927","KR","BS","Korea","Bahamas",15.877
+"1928","KR","CA","Korea","Canada",6313.116
+"1929","KR","CH","Korea","Switzerland",1185.294
+"1930","KR","CL","Korea","Chile",400.92
+"1931","KR","CN","Korea","China",32499.745
+"1932","KR","CY","Korea","Cyprus",1.594
+"1933","KR","CZ","Korea","Czechia",1181.223
+"1934","KR","DE","Korea","Germany",2927.655
+"1935","KR","DK","Korea","Denmark",156.865
+"1936","KR","EE","Korea","Estonia",2.367
+"1937","KR","ES","Korea","Spain",497.146
+"1938","KR","FI","Korea","Finland",131.437
+"1939","KR","FR","Korea","France",1322.679
+"1940","KR","GB","Korea","United Kingdom",6978.658
+"1941","KR","GG","Korea","Guernsey",13.807
+"1942","KR","GR","Korea","Greece",1671.683
+"1943","KR","HK","Korea","Hong Kong SAR",10364.857
+"1944","KR","HU","Korea","Hungary",3741.513
+"1945","KR","ID","Korea","Indonesia",12274.704
+"1946","KR","IE","Korea","Ireland",1187.563
+"1947","KR","IL","Korea","Israel",104.801
+"1948","KR","IN","Korea","India",6799.915
+"1949","KR","IT","Korea","Italy",480.537
+"1950","KR","JE","Korea","Jersey",448.051
+"1951","KR","JP","Korea","Japan",17730.331
+"1952","KR","KW","Korea","Kuwait",1313.424
+"1953","KR","KY","Korea","Cayman Islands",2326.461
+"1954","KR","LT","Korea","Lithuania",18.185
+"1955","KR","LU","Korea","Luxembourg",1247.019
+"1956","KR","LV","Korea","Latvia",0.86
+"1957","KR","MO","Korea","Macao SAR",18.553
+"1958","KR","MT","Korea","Malta",207.06
+"1959","KR","MX","Korea","Mexico",2446.897
+"1960","KR","MY","Korea","Malaysia",1126.641
+"1961","KR","NG","Korea","Nigeria",388.438
+"1962","KR","NL","Korea","Netherlands",1127.9
+"1963","KR","NO","Korea","Norway",326.887
+"1964","KR","PA","Korea","Panama",3493.592
+"1965","KR","PE","Korea","Peru",150.062
+"1966","KR","PH","Korea","Philippines",1335.421
+"1967","KR","PL","Korea","Poland",2268.296
+"1968","KR","PT","Korea","Portugal",54.317
+"1969","KR","QA","Korea","Qatar",2590.461
+"1970","KR","RO","Korea","Romania",120.715
+"1971","KR","RU","Korea","Russia",1804.871
+"1972","KR","SA","Korea","Saudi Arabia",3666.515
+"1973","KR","SE","Korea","Sweden",225.13
+"1974","KR","SG","Korea","Singapore",4634.174
+"1975","KR","SI","Korea","Slovenia",144.063
+"1976","KR","SK","Korea","Slovakia",320.893
+"1977","KR","TH","Korea","Thailand",384.02
+"1978","KR","TR","Korea","Turkey",2429.823
+"1979","KR","TW","Korea","Chinese Taipei",1362.973
+"1980","KR","US","Korea","United States",51658.837
+"1981","KR","ZA","Korea","South Africa",109.372
+"1982","MX","CA","Mexico","Canada",330.764
+"1983","MX","CN","Mexico","China",0.516
+"1984","MX","CO","Mexico","Colombia",1.579
+"1985","MX","CR","Mexico","Costa Rica",32.996
+"1986","MX","DE","Mexico","Germany",854.958
+"1987","MX","ES","Mexico","Spain",152.882
+"1988","MX","FR","Mexico","France",23.56
+"1989","MX","GB","Mexico","United Kingdom",31.013
+"1990","MX","GT","Mexico","Guatemala",0.047
+"1991","MX","HN","Mexico","Honduras",89.253
+"1992","MX","JP","Mexico","Japan",303.492
+"1993","MX","KP","Mexico","North Korea",0.001
+"1994","MX","LU","Mexico","Luxembourg",236.959
+"1995","MX","NL","Mexico","Netherlands",10.454
+"1996","MX","PA","Mexico","Panama",295.805
+"1997","MX","PE","Mexico","Peru",0.133
+"1998","MX","PT","Mexico","Portugal",28.097
+"1999","MX","SG","Mexico","Singapore",31.453
+"2000","MX","US","Mexico","United States",3341.921
+"2001","MX","VE","Mexico","Venezuela",535.05
+"2002","NL","AE","Netherlands","United Arab Emirates",3694.109
+"2003","NL","AT","Netherlands","Austria",8523.531
+"2004","NL","CA","Netherlands","Canada",19292.078
+"2005","NL","CH","Netherlands","Switzerland",33344.153
+"2006","NL","CW","Netherlands","Curacao",503.096
+"2007","NL","CY","Netherlands","Cyprus",556.742
+"2008","NL","DE","Netherlands","Germany",202948.511
+"2009","NL","DK","Netherlands","Denmark",4606.454
+"2010","NL","ES","Netherlands","Spain",50971.485
+"2011","NL","FI","Netherlands","Finland",7663.49
+"2012","NL","FR","Netherlands","France",105521.277
+"2013","NL","GB","Netherlands","United Kingdom",95282.52
+"2014","NL","GG","Netherlands","Guernsey",715.593
+"2015","NL","IE","Netherlands","Ireland",47949.756
+"2016","NL","IM","Netherlands","Isle of Man",855.124
+"2017","NL","IT","Netherlands","Italy",23258.717
+"2018","NL","JE","Netherlands","Jersey",4876.081
+"2019","NL","JP","Netherlands","Japan",9476.281
+"2020","NL","LU","Netherlands","Luxembourg",48545.037
+"2021","NL","MT","Netherlands","Malta",977.54
+"2022","NL","NO","Netherlands","Norway",7041.081
+"2023","NL","PA","Netherlands","Panama",308.12
+"2024","NL","PT","Netherlands","Portugal",1427.884
+"2025","NL","SE","Netherlands","Sweden",5267.734
+"2026","NL","SG","Netherlands","Singapore",18868.032
+"2027","NL","US","Netherlands","United States",257123.225
+"2028","NL","ZA","Netherlands","South Africa",611.959
+"2029","PT","AD","Portugal","Andorra",16.693
+"2030","PT","AE","Portugal","United Arab Emirates",119.107
+"2031","PT","AO","Portugal","Angola",2173.066
+"2032","PT","AR","Portugal","Argentina",13.121
+"2033","PT","AT","Portugal","Austria",256.001
+"2034","PT","AU","Portugal","Australia",88.444
+"2035","PT","BE","Portugal","Belgium",1038.877
+"2036","PT","BG","Portugal","Bulgaria",46.421
+"2037","PT","BM","Portugal","Bermuda",1.91
+"2038","PT","BO","Portugal","Bolivia",0.183
+"2039","PT","BR","Portugal","Brazil",1433.91
+"2040","PT","BS","Portugal","Bahamas",13.311
+"2041","PT","CA","Portugal","Canada",154.636
+"2042","PT","CD","Portugal","Congo Democratic Republic",0.846
+"2043","PT","CH","Portugal","Switzerland",1949.765
+"2044","PT","CL","Portugal","Chile",79.025
+"2045","PT","CN","Portugal","China",409.773
+"2046","PT","CO","Portugal","Colombia",118.88
+"2047","PT","CV","Portugal","Cape Verde",1587.077
+"2048","PT","CY","Portugal","Cyprus",58.03
+"2049","PT","CZ","Portugal","Czechia",145.665
+"2050","PT","DE","Portugal","Germany",3229.396
+"2051","PT","DK","Portugal","Denmark",323.842
+"2052","PT","DZ","Portugal","Algeria",1.086
+"2053","PT","ES","Portugal","Spain",17997.495
+"2054","PT","FI","Portugal","Finland",370.547
+"2055","PT","FR","Portugal","France",8457.595
+"2056","PT","GB","Portugal","United Kingdom",2270.545
+"2057","PT","GG","Portugal","Guernsey",0.231
+"2058","PT","GI","Portugal","Gibraltar",0.961
+"2059","PT","GN","Portugal","Guinea",1.794
+"2060","PT","GR","Portugal","Greece",377.538
+"2061","PT","GW","Portugal","Guinea-Bissau",5.061
+"2062","PT","HK","Portugal","Hong Kong SAR",604.136
+"2063","PT","HR","Portugal","Croatia",38.938
+"2064","PT","HU","Portugal","Hungary",119.33
+"2065","PT","ID","Portugal","Indonesia",33.953
+"2066","PT","IE","Portugal","Ireland",2820.478
+"2067","PT","IN","Portugal","India",58.264
+"2068","PT","IS","Portugal","Iceland",13.917
+"2069","PT","IT","Portugal","Italy",9574.416
+"2070","PT","JE","Portugal","Jersey",50.248
+"2071","PT","JP","Portugal","Japan",188.358
+"2072","PT","KR","Portugal","Korea",50.918
+"2073","PT","KY","Portugal","Cayman Islands",196.791
+"2074","PT","KZ","Portugal","Kazakhstan",7.793
+"2075","PT","LI","Portugal","Liechtenstein",2.813
+"2076","PT","LT","Portugal","Lithuania",34.058
+"2077","PT","LU","Portugal","Luxembourg",2181.445
+"2078","PT","LV","Portugal","Latvia",70.512
+"2079","PT","MA","Portugal","Morocco",197.579
+"2080","PT","MD","Portugal","Moldova",1.352
+"2081","PT","MO","Portugal","Macao SAR",5446.211
+"2082","PT","MR","Portugal","Mauritania",0.024
+"2083","PT","MT","Portugal","Malta",79.203
+"2084","PT","MU","Portugal","Mauritius",0.422
+"2085","PT","MW","Portugal","Malawi",1.621
+"2086","PT","MX","Portugal","Mexico",228.18
+"2087","PT","MY","Portugal","Malaysia",1.881
+"2088","PT","MZ","Portugal","Mozambique",5618.359
+"2089","PT","NG","Portugal","Nigeria",10.109
+"2090","PT","NL","Portugal","Netherlands",2743.761
+"2091","PT","NO","Portugal","Norway",105.091
+"2092","PT","NZ","Portugal","New Zealand",1.722
+"2093","PT","PA","Portugal","Panama",33.359
+"2094","PT","PE","Portugal","Peru",87.015
+"2095","PT","PK","Portugal","Pakistan",9.264
+"2096","PT","PL","Portugal","Poland",25261.979
+"2097","PT","RO","Portugal","Romania",119.306
+"2098","PT","RU","Portugal","Russia",171.819
+"2099","PT","SA","Portugal","Saudi Arabia",80.774
+"2100","PT","SE","Portugal","Sweden",219.14
+"2101","PT","SG","Portugal","Singapore",71.139
+"2102","PT","SI","Portugal","Slovenia",113.625
+"2103","PT","SK","Portugal","Slovakia",53.284
+"2104","PT","ST","Portugal","Sao Tome and Principe",35.828
+"2105","PT","TN","Portugal","Tunisia",5.25
+"2106","PT","TR","Portugal","Turkey",235.538
+"2107","PT","UA","Portugal","Ukraine",14.596
+"2108","PT","US","Portugal","United States",2924.782
+"2109","PT","UY","Portugal","Uruguay",6.906
+"2110","PT","VE","Portugal","Venezuela",26.106
+"2111","PT","ZA","Portugal","South Africa",221.483
+"2112","PT","ZW","Portugal","Zimbabwe",2.294
+"2113","SE","AD","Sweden","Andorra",1.577
+"2114","SE","AE","Sweden","United Arab Emirates",380.978
+"2115","SE","AF","Sweden","Afghanistan",0.049
+"2116","SE","AL","Sweden","Albania",0.001
+"2117","SE","AM","Sweden","Armenia",13.198
+"2118","SE","AO","Sweden","Angola",379.555
+"2119","SE","AR","Sweden","Argentina",22.096
+"2120","SE","AT","Sweden","Austria",864.45
+"2121","SE","AU","Sweden","Australia",122.053
+"2122","SE","AZ","Sweden","Azerbaijan",0.346
+"2123","SE","BA","Sweden","Bosnia and Herzegovina",0.283
+"2124","SE","BB","Sweden","Barbados",1.3
+"2125","SE","BD","Sweden","Bangladesh",79.756
+"2126","SE","BE","Sweden","Belgium",775.746
+"2127","SE","BF","Sweden","Burkina Faso",1.77
+"2128","SE","BG","Sweden","Bulgaria",1.72
+"2129","SE","BH","Sweden","Bahrain",2.43
+"2130","SE","BI","Sweden","Burundi",0.001
+"2131","SE","BJ","Sweden","Benin",24.022
+"2132","SE","BM","Sweden","Bermuda",1185.056
+"2133","SE","BO","Sweden","Bolivia",1
+"2134","SE","BR","Sweden","Brazil",2439.199
+"2135","SE","BS","Sweden","Bahamas",0.995
+"2136","SE","BT","Sweden","Bhutan",1.195
+"2137","SE","BW","Sweden","Botswana",1.301
+"2138","SE","BY","Sweden","Belarus",0.402
+"2139","SE","CA","Sweden","Canada",720.032
+"2140","SE","CD","Sweden","Congo Democratic Republic",70.519
+"2141","SE","CH","Sweden","Switzerland",1514.785
+"2142","SE","CI","Sweden","Cote d'Ivoire",377.899
+"2143","SE","CL","Sweden","Chile",314.773
+"2144","SE","CM","Sweden","Cameroon",19.015
+"2145","SE","CN","Sweden","China",1931.398
+"2146","SE","CR","Sweden","Costa Rica",3.07
+"2147","SE","CU","Sweden","Cuba",0.841
+"2148","SE","CW","Sweden","Curacao",5.631
+"2149","SE","CY","Sweden","Cyprus",91.842
+"2150","SE","CZ","Sweden","Czechia",28.855
+"2151","SE","DE","Sweden","Germany",13566.301
+"2152","SE","DK","Sweden","Denmark",30723.381
+"2153","SE","DO","Sweden","Dominican Republic",11.921
+"2154","SE","DZ","Sweden","Algeria",0.479
+"2155","SE","EC","Sweden","Ecuador",17.836
+"2156","SE","EE","Sweden","Estonia",23502.757
+"2157","SE","EG","Sweden","Egypt",47.031
+"2158","SE","ES","Sweden","Spain",888.875
+"2159","SE","ET","Sweden","Ethiopia",156.688
+"2160","SE","FI","Sweden","Finland",50365.435
+"2161","SE","FO","Sweden","Faeroe Islands",50.75
+"2162","SE","FR","Sweden","France",2039.271
+"2163","SE","GB","Sweden","United Kingdom",47824.112
+"2164","SE","GE","Sweden","Georgia",6.274
+"2165","SE","GG","Sweden","Guernsey",4929.898
+"2166","SE","GH","Sweden","Ghana",208.797
+"2167","SE","GI","Sweden","Gibraltar",3.063
+"2168","SE","GL","Sweden","Greenland",47.679
+"2169","SE","GM","Sweden","Gambia",0.114
+"2170","SE","GT","Sweden","Guatemala",0.823
+"2171","SE","HK","Sweden","Hong Kong SAR",330.401
+"2172","SE","HR","Sweden","Croatia",0.599
+"2173","SE","HU","Sweden","Hungary",17.935
+"2174","SE","ID","Sweden","Indonesia",37.381
+"2175","SE","IE","Sweden","Ireland",4848.546
+"2176","SE","IM","Sweden","Isle of Man",179.97
+"2177","SE","IQ","Sweden","Iraq",100.459
+"2178","SE","IR","Sweden","Iran",0.704
+"2179","SE","IS","Sweden","Iceland",51.36
+"2180","SE","IT","Sweden","Italy",308.087
+"2181","SE","JE","Sweden","Jersey",2071.9
+"2182","SE","JM","Sweden","Jamaica",0.465
+"2183","SE","JO","Sweden","Jordan",25.261
+"2184","SE","JP","Sweden","Japan",687.617
+"2185","SE","KE","Sweden","Kenya",17.117
+"2186","SE","KG","Sweden","Kyrgyz Republic",0.271
+"2187","SE","KH","Sweden","Cambodia",0.199
+"2188","SE","KR","Sweden","Korea",97.296
+"2189","SE","KW","Sweden","Kuwait",55.237
+"2190","SE","KY","Sweden","Cayman Islands",3900.447
+"2191","SE","KZ","Sweden","Kazakhstan",1.671
+"2192","SE","LB","Sweden","Lebanon",3.596
+"2193","SE","LI","Sweden","Liechtenstein",0.681
+"2194","SE","LK","Sweden","Sri Lanka",39.426
+"2195","SE","LR","Sweden","Liberia",846.179
+"2196","SE","LS","Sweden","Lesotho",0.001
+"2197","SE","LT","Sweden","Lithuania",29531.952
+"2198","SE","LU","Sweden","Luxembourg",10203.805
+"2199","SE","LV","Sweden","Latvia",16509.179
+"2200","SE","LY","Sweden","Libya",0.003
+"2201","SE","MA","Sweden","Morocco",14.021
+"2202","SE","MD","Sweden","Moldova",0.583
+"2203","SE","MG","Sweden","Madagascar",16.011
+"2204","SE","MH","Sweden","Marshall Islands",1579.682
+"2205","SE","MK","Sweden","North Macedonia",0.028
+"2206","SE","ML","Sweden","Mali",1.895
+"2207","SE","MM","Sweden","Myanmar",0.277
+"2208","SE","MN","Sweden","Mongolia",0.181
+"2209","SE","MO","Sweden","Macao SAR",3.856
+"2210","SE","MT","Sweden","Malta",335.056
+"2211","SE","MU","Sweden","Mauritius",2.015
+"2212","SE","MV","Sweden","Maldives",0.16
+"2213","SE","MW","Sweden","Malawi",0.395
+"2214","SE","MX","Sweden","Mexico",483.664
+"2215","SE","MZ","Sweden","Mozambique",0.56
+"2216","SE","NC","Sweden","New Caledonia",1.758
+"2217","SE","NG","Sweden","Nigeria",2.591
+"2218","SE","NL","Sweden","Netherlands",13209.241
+"2219","SE","NO","Sweden","Norway",48193.774
+"2220","SE","NZ","Sweden","New Zealand",21.237
+"2221","SE","OM","Sweden","Oman",36.886
+"2222","SE","PA","Sweden","Panama",77.108
+"2223","SE","PE","Sweden","Peru",45.446
+"2224","SE","PL","Sweden","Poland",1208.039
+"2225","SE","PT","Sweden","Portugal",237.669
+"2226","SE","PY","Sweden","Paraguay",0.82
+"2227","SE","QA","Sweden","Qatar",405.863
+"2228","SE","RO","Sweden","Romania",14.182
+"2229","SE","RS","Sweden","Serbia",48.98
+"2230","SE","RW","Sweden","Rwanda",0.104
+"2231","SE","SA","Sweden","Saudi Arabia",423.159
+"2232","SE","SD","Sweden","Sudan",0.546
+"2233","SE","SG","Sweden","Singapore",1028.986
+"2234","SE","SI","Sweden","Slovenia",0.831
+"2235","SE","SK","Sweden","Slovakia",26.403
+"2236","SE","SL","Sweden","Sierra Leone",0.001
+"2237","SE","SM","Sweden","San Marino",0.002
+"2238","SE","SN","Sweden","Senegal",16.184
+"2239","SE","SZ","Sweden","Eswatini",0.212
+"2240","SE","TH","Sweden","Thailand",95.054
+"2241","SE","TN","Sweden","Tunisia",9.097
+"2242","SE","TR","Sweden","Turkey",669.919
+"2243","SE","TT","Sweden","Trinidad and Tobago",0.313
+"2244","SE","TW","Sweden","Chinese Taipei",55.325
+"2245","SE","TZ","Sweden","Tanzania",111.887
+"2246","SE","UA","Sweden","Ukraine",74.387
+"2247","SE","UG","Sweden","Uganda",2.026
+"2248","SE","US","Sweden","United States",32234.337
+"2249","SE","UY","Sweden","Uruguay",11.783
+"2250","SE","UZ","Sweden","Uzbekistan",72.745
+"2251","SE","VE","Sweden","Venezuela",0.54
+"2252","SE","VN","Sweden","Vietnam",36.803
+"2253","SE","YE","Sweden","Yemen",0.192
+"2254","SE","ZA","Sweden","South Africa",66.847
+"2255","SE","ZM","Sweden","Zambia",95.11
+"2256","SE","ZW","Sweden","Zimbabwe",0.679
+"2257","TR","AE","Turkey","United Arab Emirates",80.744
+"2258","TR","AF","Turkey","Afghanistan",0.026
+"2259","TR","AL","Turkey","Albania",211.896
+"2260","TR","AO","Turkey","Angola",0.004
+"2261","TR","AT","Turkey","Austria",349.041
+"2262","TR","AU","Turkey","Australia",13.172
+"2263","TR","AZ","Turkey","Azerbaijan",91.162
+"2264","TR","BA","Turkey","Bosnia and Herzegovina",181.133
+"2265","TR","BD","Turkey","Bangladesh",0.308
+"2266","TR","BE","Turkey","Belgium",60.792
+"2267","TR","BF","Turkey","Burkina Faso",0.006
+"2268","TR","BG","Turkey","Bulgaria",117.723
+"2269","TR","BH","Turkey","Bahrain",206.149
+"2270","TR","BJ","Turkey","Benin",0.012
+"2271","TR","BO","Turkey","Bolivia",0.008
+"2272","TR","BR","Turkey","Brazil",19.975
+"2273","TR","BS","Turkey","Bahamas",0.023
+"2274","TR","BY","Turkey","Belarus",0.004
+"2275","TR","CA","Turkey","Canada",29.103
+"2276","TR","CG","Turkey","Congo",66.344
+"2277","TR","CH","Turkey","Switzerland",567.542
+"2278","TR","CI","Turkey","Cote d'Ivoire",0.032
+"2279","TR","CL","Turkey","Chile",0.014
+"2280","TR","CM","Turkey","Cameroon",156.202
+"2281","TR","CN","Turkey","China",19.718
+"2282","TR","CO","Turkey","Colombia",0.004
+"2283","TR","CU","Turkey","Cuba",0.002
+"2284","TR","CZ","Turkey","Czechia",0.089
+"2285","TR","DE","Turkey","Germany",2726.557
+"2286","TR","DJ","Turkey","Djibouti",8.285
+"2287","TR","DK","Turkey","Denmark",2.753
+"2288","TR","DO","Turkey","Dominican Republic",0.005
+"2289","TR","DZ","Turkey","Algeria",2.033
+"2290","TR","EE","Turkey","Estonia",0.891
+"2291","TR","EG","Turkey","Egypt",10.514
+"2292","TR","ES","Turkey","Spain",14.062
+"2293","TR","ET","Turkey","Ethiopia",181.667
+"2294","TR","FI","Turkey","Finland",0.948
+"2295","TR","FR","Turkey","France",654.14
+"2296","TR","GA","Turkey","Gabon",0.002
+"2297","TR","GB","Turkey","United Kingdom",6026.169
+"2298","TR","GE","Turkey","Georgia",44.672
+"2299","TR","GH","Turkey","Ghana",71.443
+"2300","TR","GN","Turkey","Guinea",0.048
+"2301","TR","GR","Turkey","Greece",48.158
+"2302","TR","GT","Turkey","Guatemala",0.003
+"2303","TR","HK","Turkey","Hong Kong SAR",8.327
+"2304","TR","HR","Turkey","Croatia",30.801
+"2305","TR","HU","Turkey","Hungary",0.204
+"2306","TR","ID","Turkey","Indonesia",0.033
+"2307","TR","IE","Turkey","Ireland",0.92
+"2308","TR","IL","Turkey","Israel",2.941
+"2309","TR","IM","Turkey","Isle of Man",20
+"2310","TR","IN","Turkey","India",0.591
+"2311","TR","IQ","Turkey","Iraq",389.62
+"2312","TR","IR","Turkey","Iran",0.221
+"2313","TR","IS","Turkey","Iceland",0.003
+"2314","TR","IT","Turkey","Italy",71.712
+"2315","TR","JE","Turkey","Jersey",0.003
+"2316","TR","JO","Turkey","Jordan",23.259
+"2317","TR","JP","Turkey","Japan",51.891
+"2318","TR","KE","Turkey","Kenya",0.051
+"2319","TR","KG","Turkey","Kyrgyz Republic",0.206
+"2320","TR","KH","Turkey","Cambodia",0.006
+"2321","TR","KR","Turkey","Korea",0.081
+"2322","TR","KW","Turkey","Kuwait",7.817
+"2323","TR","KY","Turkey","Cayman Islands",110.37
+"2324","TR","KZ","Turkey","Kazakhstan",64.353
+"2325","TR","LB","Turkey","Lebanon",0.748
+"2326","TR","LK","Turkey","Sri Lanka",0.058
+"2327","TR","LR","Turkey","Liberia",0.001
+"2328","TR","LT","Turkey","Lithuania",0.072
+"2329","TR","LU","Turkey","Luxembourg",299.246
+"2330","TR","LV","Turkey","Latvia",0.006
+"2331","TR","LY","Turkey","Libya",0.035
+"2332","TR","MA","Turkey","Morocco",4.912
+"2333","TR","MD","Turkey","Moldova",0.053
+"2334","TR","ME","Turkey","Montenegro",13.909
+"2335","TR","MG","Turkey","Madagascar",0.002
+"2336","TR","MH","Turkey","Marshall Islands",250.535
+"2337","TR","MK","Turkey","North Macedonia",254.776
+"2338","TR","ML","Turkey","Mali",0.001
+"2339","TR","MM","Turkey","Myanmar",0.004
+"2340","TR","MN","Turkey","Mongolia",2.267
+"2341","TR","MR","Turkey","Mauritania",1.74
+"2342","TR","MT","Turkey","Malta",230.31
+"2343","TR","MX","Turkey","Mexico",0.039
+"2344","TR","MY","Turkey","Malaysia",0.036
+"2345","TR","MZ","Turkey","Mozambique",0.003
+"2346","TR","NE","Turkey","Niger",15.575
+"2347","TR","NG","Turkey","Nigeria",0.025
+"2348","TR","NL","Turkey","Netherlands",939.156
+"2349","TR","NO","Turkey","Norway",3.341
+"2350","TR","NZ","Turkey","New Zealand",0.001
+"2351","TR","OM","Turkey","Oman",0.729
+"2352","TR","PA","Turkey","Panama",8.007
+"2353","TR","PE","Turkey","Peru",4.971
+"2354","TR","PH","Turkey","Philippines",1.87
+"2355","TR","PK","Turkey","Pakistan",0.11
+"2356","TR","PL","Turkey","Poland",1.8
+"2357","TR","PS","Turkey","Palestinian Territory",11.571
+"2358","TR","PT","Turkey","Portugal",1.667
+"2359","TR","PY","Turkey","Paraguay",0.048
+"2360","TR","QA","Turkey","Qatar",7.237
+"2361","TR","RO","Turkey","Romania",2.948
+"2362","TR","RS","Turkey","Serbia",470.939
+"2363","TR","RU","Turkey","Russia",303.815
+"2364","TR","RW","Turkey","Rwanda",1.505
+"2365","TR","SA","Turkey","Saudi Arabia",73.142
+"2366","TR","SC","Turkey","Seychelles",4.728
+"2367","TR","SD","Turkey","Sudan",4.529
+"2368","TR","SE","Turkey","Sweden",2.99
+"2369","TR","SG","Turkey","Singapore",0.574
+"2370","TR","SI","Turkey","Slovenia",0.002
+"2371","TR","SK","Turkey","Slovakia",0.037
+"2372","TR","SL","Turkey","Sierra Leone",0.089
+"2373","TR","SN","Turkey","Senegal",204.605
+"2374","TR","SO","Turkey","Somalia",0.033
+"2375","TR","SR","Turkey","Suriname",0.003
+"2376","TR","SY","Turkey","Syria",0.003
+"2377","TR","TH","Turkey","Thailand",0.087
+"2378","TR","TJ","Turkey","Tajikistan",0.006
+"2379","TR","TM","Turkey","Turkmenistan",18.253
+"2380","TR","TN","Turkey","Tunisia",22.318
+"2381","TR","TW","Turkey","Chinese Taipei",0.127
+"2382","TR","TZ","Turkey","Tanzania",0.027
+"2383","TR","UA","Turkey","Ukraine",0.876
+"2384","TR","UG","Turkey","Uganda",0.015
+"2385","TR","US","Turkey","United States",6525.659
+"2386","TR","UZ","Turkey","Uzbekistan",85.039
+"2387","TR","VE","Turkey","Venezuela",0.032
+"2388","TR","VN","Turkey","Vietnam",0.019
+"2389","TR","ZA","Turkey","South Africa",0.926
+"2390","TW","AE","Chinese Taipei","United Arab Emirates",5458
+"2391","TW","AR","Chinese Taipei","Argentina",1
+"2392","TW","AT","Chinese Taipei","Austria",594
+"2393","TW","AU","Chinese Taipei","Australia",25199
+"2394","TW","BE","Chinese Taipei","Belgium",208
+"2395","TW","BH","Chinese Taipei","Bahrain",216
+"2396","TW","BM","Chinese Taipei","Bermuda",2022
+"2397","TW","BR","Chinese Taipei","Brazil",28
+"2398","TW","BS","Chinese Taipei","Bahamas",124
+"2399","TW","CA","Chinese Taipei","Canada",4741
+"2400","TW","CH","Chinese Taipei","Switzerland",905
+"2401","TW","CL","Chinese Taipei","Chile",1281
+"2402","TW","CN","Chinese Taipei","China",56481
+"2403","TW","CY","Chinese Taipei","Cyprus",97
+"2404","TW","CZ","Chinese Taipei","Czechia",22
+"2405","TW","DE","Chinese Taipei","Germany",2397
+"2406","TW","DK","Chinese Taipei","Denmark",213
+"2407","TW","ES","Chinese Taipei","Spain",706
+"2408","TW","FI","Chinese Taipei","Finland",137
+"2409","TW","FR","Chinese Taipei","France",9914
+"2410","TW","GB","Chinese Taipei","United Kingdom",11585
+"2411","TW","GG","Chinese Taipei","Guernsey",89
+"2412","TW","GR","Chinese Taipei","Greece",1
+"2413","TW","HK","Chinese Taipei","Hong Kong SAR",36509
+"2414","TW","HU","Chinese Taipei","Hungary",54
+"2415","TW","ID","Chinese Taipei","Indonesia",5753
+"2416","TW","IE","Chinese Taipei","Ireland",1292
+"2417","TW","IL","Chinese Taipei","Israel",40
+"2418","TW","IM","Chinese Taipei","Isle of Man",14
+"2419","TW","IN","Chinese Taipei","India",4591
+"2420","TW","IT","Chinese Taipei","Italy",235
+"2421","TW","JE","Chinese Taipei","Jersey",2246
+"2422","TW","JP","Chinese Taipei","Japan",35713
+"2423","TW","KR","Chinese Taipei","Korea",14149
+"2424","TW","KW","Chinese Taipei","Kuwait",163
+"2425","TW","KY","Chinese Taipei","Cayman Islands",18106
+"2426","TW","LT","Chinese Taipei","Lithuania",1
+"2427","TW","LU","Chinese Taipei","Luxembourg",1709
+"2428","TW","MO","Chinese Taipei","Macao SAR",948
+"2429","TW","MT","Chinese Taipei","Malta",149
+"2430","TW","MX","Chinese Taipei","Mexico",657
+"2431","TW","MY","Chinese Taipei","Malaysia",6046
+"2432","TW","NG","Chinese Taipei","Nigeria",1
+"2433","TW","NL","Chinese Taipei","Netherlands",5146
+"2434","TW","NO","Chinese Taipei","Norway",156
+"2435","TW","PA","Chinese Taipei","Panama",3525
+"2436","TW","PE","Chinese Taipei","Peru",321
+"2437","TW","PH","Chinese Taipei","Philippines",4358
+"2438","TW","PL","Chinese Taipei","Poland",55
+"2439","TW","PT","Chinese Taipei","Portugal",45
+"2440","TW","QA","Chinese Taipei","Qatar",2070
+"2441","TW","RU","Chinese Taipei","Russia",188
+"2442","TW","SA","Chinese Taipei","Saudi Arabia",1324
+"2443","TW","SE","Chinese Taipei","Sweden",538
+"2444","TW","SG","Chinese Taipei","Singapore",18518
+"2445","TW","SI","Chinese Taipei","Slovenia",1
+"2446","TW","TH","Chinese Taipei","Thailand",3780
+"2447","TW","TR","Chinese Taipei","Turkey",180
+"2448","TW","US","Chinese Taipei","United States",83030
+"2449","TW","ZA","Chinese Taipei","South Africa",213
+"2450","US","AD","United States","Andorra",72
+"2451","US","AE","United States","United Arab Emirates",28314
+"2452","US","AF","United States","Afghanistan",12
+"2453","US","AG","United States","Antigua and Barbuda",10
+"2454","US","AI","United States","Anguilla",1028
+"2455","US","AL","United States","Albania",13
+"2456","US","AM","United States","Armenia",41
+"2457","US","AO","United States","Angola",133
+"2458","US","AR","United States","Argentina",7511
+"2459","US","AT","United States","Austria",8028
+"2460","US","AU","United States","Australia",146190
+"2461","US","AW","United States","Aruba",174
+"2462","US","AZ","United States","Azerbaijan",76
+"2463","US","BB","United States","Barbados",1013
+"2464","US","BD","United States","Bangladesh",1228
+"2465","US","BE","United States","Belgium",27667
+"2466","US","BF","United States","Burkina Faso",25
+"2467","US","BG","United States","Bulgaria",847
+"2468","US","BH","United States","Bahrain",2826
+"2469","US","BJ","United States","Benin",10
+"2470","US","BM","United States","Bermuda",24016
+"2471","US","BN","United States","Brunei",86
+"2472","US","BO","United States","Bolivia",61
+"2473","US","BR","United States","Brazil",82669
+"2474","US","BS","United States","Bahamas",8738
+"2475","US","BW","United States","Botswana",113
+"2476","US","BY","United States","Belarus",13
+"2477","US","BZ","United States","Belize",727
+"2478","US","CA","United States","Canada",187857
+"2479","US","CD","United States","Congo Democratic Republic",133
+"2480","US","CG","United States","Congo",2
+"2481","US","CH","United States","Switzerland",64640
+"2482","US","CI","United States","Cote d'Ivoire",671
+"2483","US","CL","United States","Chile",9934
+"2484","US","CM","United States","Cameroon",223
+"2485","US","CN","United States","China",134895
+"2486","US","CO","United States","Colombia",7651
+"2487","US","CR","United States","Costa Rica",1503
+"2488","US","CV","United States","Cape Verde",1
+"2489","US","CW","United States","Curacao",572
+"2490","US","CY","United States","Cyprus",3373
+"2491","US","CZ","United States","Czechia",8130
+"2492","US","DE","United States","Germany",365071
+"2493","US","DK","United States","Denmark",7007
+"2494","US","DM","United States","Dominica",2
+"2495","US","DO","United States","Dominican Republic",1309
+"2496","US","DZ","United States","Algeria",1352
+"2497","US","EC","United States","Ecuador",1319
+"2498","US","EE","United States","Estonia",44
+"2499","US","EG","United States","Egypt",9688
+"2500","US","ES","United States","Spain",38105
+"2501","US","ET","United States","Ethiopia",164
+"2502","US","FI","United States","Finland",8789
+"2503","US","FJ","United States","Fiji",17
+"2504","US","FO","United States","Faeroe Islands",4
+"2505","US","FR","United States","France",250591
+"2506","US","GA","United States","Gabon",122
+"2507","US","GB","United States","United Kingdom",512010
+"2508","US","GE","United States","Georgia",127
+"2509","US","GG","United States","Guernsey",16218
+"2510","US","GH","United States","Ghana",2456
+"2511","US","GI","United States","Gibraltar",66
+"2512","US","GN","United States","Guinea",25
+"2513","US","GR","United States","Greece",3150
+"2514","US","GT","United States","Guatemala",1892
+"2515","US","GY","United States","Guyana",6
+"2516","US","HK","United States","Hong Kong SAR",90434
+"2517","US","HN","United States","Honduras",1038
+"2518","US","HR","United States","Croatia",157
+"2519","US","HT","United States","Haiti",188
+"2520","US","HU","United States","Hungary",2855
+"2521","US","ID","United States","Indonesia",14768
+"2522","US","IE","United States","Ireland",112405
+"2523","US","IL","United States","Israel",14533
+"2524","US","IM","United States","Isle of Man",1510
+"2525","US","IN","United States","India",79132
+"2526","US","IQ","United States","Iraq",464
+"2527","US","IR","United States","Iran",5
+"2528","US","IS","United States","Iceland",271
+"2529","US","IT","United States","Italy",50913
+"2530","US","JE","United States","Jersey",14144
+"2531","US","JM","United States","Jamaica",344
+"2532","US","JO","United States","Jordan",583
+"2533","US","JP","United States","Japan",397944
+"2534","US","KE","United States","Kenya",1404
+"2535","US","KH","United States","Cambodia",13
+"2536","US","KM","United States","Comoros",1
+"2537","US","KN","United States","St.Kitts - Nevis",829
+"2538","US","KR","United States","Korea",103121
+"2539","US","KW","United States","Kuwait",15093
+"2540","US","KY","United States","Cayman Islands",541469
+"2541","US","KZ","United States","Kazakhstan",3690
+"2542","US","LB","United States","Lebanon",247
+"2543","US","LC","United States","St. Lucia",34
+"2544","US","LI","United States","Liechtenstein",286
+"2545","US","LK","United States","Sri Lanka",630
+"2546","US","LR","United States","Liberia",3044
+"2547","US","LT","United States","Lithuania",73
+"2548","US","LU","United States","Luxembourg",116961
+"2549","US","LV","United States","Latvia",599
+"2550","US","LY","United States","Libya",1
+"2551","US","MA","United States","Morocco",981
+"2552","US","MD","United States","Moldova",1
+"2553","US","ME","United States","Montenegro",1
+"2554","US","MH","United States","Marshall Islands",4314
+"2555","US","MK","United States","North Macedonia",8
+"2556","US","ML","United States","Mali",1
+"2557","US","MM","United States","Myanmar",2
+"2558","US","MN","United States","Mongolia",401
+"2559","US","MO","United States","Macao SAR",497
+"2560","US","MT","United States","Malta",916
+"2561","US","MU","United States","Mauritius",3053
+"2562","US","MV","United States","Maldives",3
+"2563","US","MW","United States","Malawi",51
+"2564","US","MX","United States","Mexico",96736
+"2565","US","MY","United States","Malaysia",18136
+"2566","US","MZ","United States","Mozambique",19
+"2567","US","NE","United States","Niger",1
+"2568","US","NG","United States","Nigeria",13241
+"2569","US","NI","United States","Nicaragua",16
+"2570","US","NL","United States","Netherlands",60380
+"2571","US","NO","United States","Norway",18706
+"2572","US","NP","United States","Nepal",8
+"2573","US","NZ","United States","New Zealand",6411
+"2574","US","OM","United States","Oman",827
+"2575","US","PA","United States","Panama",6309
+"2576","US","PE","United States","Peru",4903
+"2577","US","PF","United States","French Polynesia",1
+"2578","US","PG","United States","Papua New Guinea",13
+"2579","US","PH","United States","Philippines",8997
+"2580","US","PK","United States","Pakistan",1290
+"2581","US","PL","United States","Poland",15745
+"2582","US","PS","United States","Palestinian Territory",6
+"2583","US","PT","United States","Portugal",3777
+"2584","US","PU","United States","U.S. Miscellaneous Pacific Islands",10
+"2585","US","PW","United States","Palau",10
+"2586","US","PY","United States","Paraguay",582
+"2587","US","QA","United States","Qatar",8732
+"2588","US","RO","United States","Romania",2819
+"2589","US","RS","United States","Serbia",242
+"2590","US","RU","United States","Russia",15785
+"2591","US","RW","United States","Rwanda",18
+"2592","US","SA","United States","Saudi Arabia",21621
+"2593","US","SC","United States","Seychelles",24
+"2594","US","SD","United States","Sudan",8
+"2595","US","SE","United States","Sweden",25229
+"2596","US","SG","United States","Singapore",113646
+"2597","US","SI","United States","Slovenia",291
+"2598","US","SK","United States","Slovakia",1369
+"2599","US","SM","United States","San Marino",1
+"2600","US","SN","United States","Senegal",188
+"2601","US","SR","United States","Suriname",18
+"2602","US","SS","United States","South Sudan",1
+"2603","US","SV","United States","El Salvador",616
+"2604","US","SY","United States","Syria",1
+"2605","US","SZ","United States","Eswatini",1
+"2606","US","TC","United States","Turks and Caicos Islands",51
+"2607","US","TG","United States","Togo",1
+"2608","US","TH","United States","Thailand",15895
+"2609","US","TM","United States","Turkmenistan",217
+"2610","US","TN","United States","Tunisia",661
+"2611","US","TR","United States","Turkey",11225
+"2612","US","TT","United States","Trinidad and Tobago",832
+"2613","US","TW","United States","Chinese Taipei",70382
+"2614","US","TZ","United States","Tanzania",341
+"2615","US","UA","United States","Ukraine",1613
+"2616","US","UG","United States","Uganda",440
+"2617","US","UY","United States","Uruguay",1968
+"2618","US","UZ","United States","Uzbekistan",326
+"2619","US","VA","United States","Vatican City State",1
+"2620","US","VC","United States","St. Vincent and the Grenadines",45
+"2621","US","VE","United States","Venezuela",1109
+"2622","US","VG","United States","Virgin Islands (British)",55074
+"2623","US","VN","United States","Vietnam",5400
+"2624","US","WF","United States","Wallis and Futuna",3
+"2625","US","WS","United States","Samoa",243
+"2626","US","YE","United States","Yemen",1
+"2627","US","ZA","United States","South Africa",11651
+"2628","US","ZM","United States","Zambia",984
+"2629","US","ZW","United States","Zimbabwe",14

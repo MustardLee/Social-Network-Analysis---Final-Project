@@ -1,0 +1,351 @@
+---
+title: "Debt_contagions"
+author: "Rebecca Li"
+date: "6/15/2021"
+output:
+  html_document: default
+  pdf_document: default
+---
+
+
+```{r}
+library(igraph)
+library(dplyr)
+library(lubridate)
+library(ggplot2)
+```
+
+```{r}
+debt_dat <- read.csv("~/Onedrive - Emory University/Fall_SNA/Social Network Analysis - Final Project/crossholding dataset.csv", stringsAsFactors = FALSE)
+str(debt_dat)
+```
+
+
+# Creating the debt interconnection graph
+
+```{r}
+debt_df <- debt_dat %>%
+	group_by(from_country, to_country) %>%
+	summarize(weight = weight)
+head(debt_df)
+```
+
+```{r}
+hist(debt_df$weight, ylim = c(1,60), xlab = 'Debt', main = 'Histogram for weight of edges')
+```
+
+Remove edges with weight less than 100.
+
+
+```{r}
+debt_df <- subset(debt_df, weight >= 100)
+```
+
+```{r}
+debt_g <- graph_from_data_frame(debt_df[, 1:2], directed = TRUE)
+# add edge weights
+E(debt_g)$weights <- debt_df$weight
+```
+
+Calculate the centrality of nodes
+```{r}
+# Using eigenvector centrality
+debt_ec <- eigen_centrality(debt_g, directed = TRUE)$vector
+
+# Get a summary of debt_ec
+summary(debt_ec)
+
+# Calc proportion of vertices with eigen-centrality close to 0.1
+almost_zero <- 1e-5
+mean(debt_ec < almost_zero)
+```
+
+Eigenvector Centrality
+```{r}
+# Get 0.90 quantile of eigen-centrality
+eigen_centrality_q90 <- quantile(debt_ec, 0.90)
+
+# Get top 10% of vertices by eigen-centrality
+top_ec <- debt_ec[debt_ec > eigen_centrality_q90]
+
+# See the results as a data frame
+ec_df <-data.frame(
+  Rank = seq_along(top_ec), 
+  EigenCentrality = names(sort(top_ec, decreasing = TRUE))
+)
+ec_df
+```
+
+```{r}
+# Get min 0.50 quantile of eigen-centrality
+eigen_centrality_q10 <- quantile(debt_ec, 0.50)
+
+# Get min 50% of vertices by eigen-centrality
+min_ec <- debt_ec[debt_ec < eigen_centrality_q10]
+
+# See the results as a data frame
+data.frame(
+  Rank = seq_along(min_ec), 
+  EigenCentrality = names(sort(min_ec, decreasing = FALSE))
+)
+```
+
+
+```{r}
+# Calculate directed betweenness of vertices
+debt_btw <- betweenness(debt_g, weights = E(debt_g)$weights, directed = TRUE)
+
+# Get a summary of retweet_btw
+summary(debt_btw)
+
+# Calculate proportion of vertices with zero betweenness
+mean(debt_btw == 0)
+```
+Betweenness Centrality
+```{r}
+# Get 0.90 quantile of betweenness 
+betweenness_q90 <- quantile(debt_btw, 0.90)
+
+# Get top 1% of vertices by betweenness
+top_btw <- debt_btw[debt_btw > betweenness_q90]
+
+data.frame(
+  Rank = seq_along(top_btw), 
+  Betweenness = names(sort(top_btw, decreasing = TRUE))
+)
+```
+
+
+Calculte the closeness for directed networks
+
+```{r}
+cl <- closeness(debt_g)
+
+data.frame(
+  Rank = seq_along(cl), 
+  closeness = names((sort(cl, decreasing = TRUE, na.last = TRUE)))
+)
+
+```
+
+Centrality Dataframe
+```{r}
+centrality_df <- data.frame(
+  Rank = seq_along(debt_ec), 
+  Betweenness = names(sort(debt_btw, decreasing = TRUE)),
+  EigenCentrality = names(sort(debt_ec, decreasing = TRUE)),
+  Closeness = names((sort(cl, decreasing = TRUE, na.last = TRUE)))
+)
+
+write.csv(centrality_df, "centrality_rank.csv",row.names=F)
+```
+
+
+Assortivity degree: whether similar points are connected
+
+```{r}
+assortativity_degree(debt_g,  directed = TRUE)
+```
+
+
+Community Detection:
+
+```{r}
+# Make graph undirected
+debt_undir <- as.undirected(debt_g)
+
+# Find communities with louvain clustering
+communities_fg <- fastgreedy.community(debt_undir)
+
+# Color vertices by community membership, as a factor
+V(debt_g)$color <- factor(membership(communities_fg))
+
+# Find edges that cross between commmunities
+is_crossing <- crossing(communities_fg, debt_g)
+
+# Set edge linetype: solid for crossings, dotted otherwise 
+E(debt_g)$lty <- ifelse(is_crossing, "solid", "dotted")
+
+# Get the sizes of communities_louvain
+community_size <- sizes(communities_fg)
+community_size
+```
+
+
+```{r}
+# Add attributes
+V(debt_g)$cent <- debt_ec 
+V(debt_g)$comm <- membership(communities_fg)
+
+png("Network.png", width=5000,height = 5000)
+
+# Make plot
+plot(debt_g, vertex.label = ifelse(debt_ec > eigen_centrality_q90, V(debt_g)$name, NA), vertex.label.cex = 2, margin = 0, 
+     vertex.color = V(debt_g)$comm, 
+     layout = layout.reingold.tilford(debt_g, circular=T),
+     edge.arrow.width = 0.3, edge.arrow.size = 0.2, 
+     vertex.size = V(debt_g)$cent * 15)
+```
+
+```{r}
+library(ggnetwork)
+library(ggplot2)
+```
+
+
+```{r}
+gn <- ggnetwork(debt_g, layout = igraph::layout.reingold.tilford(debt_g, circular=T))
+
+high_cent <- function(gn) {
+    gn[ gn$cent > quantile(gn$cent, 0.1), ]
+  }
+
+png("Networkgg.png", width=5000,height = 5000)
+
+g <- ggplot(gn, aes(x = x, y =y, xend = xend, yend = yend))+
+		geom_edges(colour = "grey80", arrow = arrow(length = unit(0.3, "lines"), type = "closed"))+
+		geom_nodes(aes(color = as.factor(comm), size = cent*100))+
+    geom_nodelabel_repel(aes(label = name, color = as.factor(comm)),
+      data = high_cent
+    ) +  
+		theme_blank()+
+		guides(
+			color = guide_legend(title = 'Community'),
+			size = guide_legend(titke = 'Centrality')
+			)
+
+print(g)
+dev.off()
+
+```
+
+```{r}
+library(htmlwidgets)
+library(networkD3)
+```
+
+
+
+```{r}
+debt_sub <- induced_subgraph(debt_g, names(top_ec))
+```
+
+
+```{r}
+# Convert igraph to network3d object
+nd3 <- igraph_to_networkD3(debt_sub)
+simpleNetwork(nd3$links)
+
+nd3$nodes$group = V(debt_sub)$comm
+nd3$nodes$cent = V(debt_sub)$cent
+
+# Plot the graph
+forceNetwork(Links = nd3$links, Nodes = nd3$nodes, 
+             Source = 'source', 
+             Target = 'target', 
+             NodeID = 'name', 
+             Group = 'group',
+             charge = -50, # node repulsion
+             zoom = T, 
+            opacity = 1,
+						Nodesize = 'cent', legend = T,fontSize = 20)
+```
+
+
+# Crossholdings
+
+```{r}
+debt_df_c <- filter(debt_df, to_country %in% debt_df$from_country)
+
+write.csv(debt_df_c, "crossholding dataset.csv")
+```
+
+```{r}
+debt_g_c <- graph_from_data_frame(debt_df_c[, 1:2], directed = TRUE)
+
+# add edge weights
+E(debt_g_c)$weights <- debt_df_c$weight
+```
+
+
+```{r}
+# Using eigenvector centrality
+debt_ec_c <- eigen_centrality(debt_g_c, weights = E(debt_g_c)$weights, directed = TRUE)$vector
+
+# Add centrality attributes
+V(debt_g_c)$cent <- debt_ec_c 
+
+# Make graph undirected
+debt_undir_c <- as.undirected(debt_g_c)
+
+# Find communities with fast greedy clustering
+communities_fg_c <- fastgreedy.community(debt_undir_c)
+
+# Color vertices by community membership, as a factor
+V(debt_g_c)$color <- factor(membership(communities_fg_c))
+
+V(debt_g_c)$comm <- membership(communities_fg_c)
+
+```
+
+```{r}
+gn_c <- ggnetwork(debt_g_c, layout = igraph::layout_with_kk(debt_g_c))
+
+png("Networkgg_cross.png", width=1618,height = 1000)
+
+g_c <- ggplot(gn_c, aes(x = x, y =y, xend = xend, yend = yend))+
+		geom_edges(colour = "grey40", 
+		           aes(size = weights),
+		           curvature = 0.15,
+		           arrow = arrow(length = unit(0.3, "lines"), type = "closed"))+ 
+  
+		geom_nodes(aes(color = name, size = cent))+
+  
+    geom_nodelabel_repel(aes(label = name, color = name)) +  
+		theme_blank()+
+		guides(
+			color = guide_legend(title = 'Name'),
+			size = guide_legend(titke = 'Centrality')
+			)
+
+print(g_c)
+dev.off()
+```
+
+根据国家总量percent画图
+```{r}
+debt_total <- debt_df_c %>%
+  group_by(from_country)%>%
+  summarise(Total = sum(weight))
+
+
+debt_df_c <- left_join(debt_df_c, debt_total) %>%
+  mutate(percent = weight/Total)
+```
+```{r}
+debt_g_simplified <- graph_from_data_frame(debt_df_c[, 1:2], directed = TRUE)
+
+# add edge weights and percent
+E(debt_g_simplified)$weights <- debt_df_c$weight
+E(debt_g_simplified)$percent <- debt_df_c$percent
+
+s1 <- subgraph.edges(debt_g_simplified, E(debt_g_simplified)[E(debt_g_simplified)$percent>0.1], del=F)
+
+# Using eigenvector centrality
+s1_ec <- eigen_centrality(s1, weights = E(s1)$weights, directed = TRUE)$vector
+
+# Add centrality attributes
+V(s1)$cent <- s1_ec 
+```
+
+```{r}
+# Make plot
+plot(s1,
+    edge.arrow.width = 1, layout = layout_with_kk(s1),
+    edge.arrow.size = 0.2,
+    vertex.label.font=2, vertex.label.cex = .8,
+    vertex.size = V(s1)$cent * 15)
+```
+
+
+

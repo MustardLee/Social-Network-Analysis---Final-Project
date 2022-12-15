@@ -1,0 +1,467 @@
+"","from_country","to_country","weight"
+"1","Australia","Austria",272.177
+"2","Australia","Belgium",2537.855
+"3","Australia","Brazil",476.798
+"4","Australia","Canada",11623.697
+"5","Australia","Chile",111.269
+"6","Australia","Chinese Taipei",5638.576
+"7","Australia","Denmark",1011.553
+"8","Australia","Finland",331.664
+"9","Australia","France",7346.861
+"10","Australia","Germany",17335.463
+"11","Australia","Greece",297.91
+"12","Australia","Ireland",4335.814
+"13","Australia","Italy",696.35
+"14","Australia","Japan",45718.821
+"15","Australia","Korea",4675.577
+"16","Australia","Mexico",427.452
+"17","Australia","Netherlands",7194.318
+"18","Australia","Spain",1857.282
+"19","Australia","Sweden",2919.633
+"20","Australia","Switzerland",3633.608
+"21","Australia","United Kingdom",98624.033
+"22","Australia","United States",114901.607
+"23","Austria","Australia",470.663
+"24","Austria","Belgium",2139.378
+"25","Austria","Brazil",216.703
+"26","Austria","Canada",2242.175
+"27","Austria","Denmark",874.747
+"28","Austria","Finland",1573.265
+"29","Austria","France",14067.368
+"30","Austria","Germany",53019.007
+"31","Austria","Greece",246.837
+"32","Austria","Ireland",4967.668
+"33","Austria","Italy",4887.384
+"34","Austria","Japan",129.304
+"35","Austria","Korea",477.182
+"36","Austria","Netherlands",10084.47
+"37","Austria","Portugal",334.598
+"38","Austria","Spain",5415.344
+"39","Austria","Sweden",1794.339
+"40","Austria","Switzerland",8730.78
+"41","Austria","Turkey",435.59
+"42","Austria","United Kingdom",9147.78
+"43","Austria","United States",12595.884
+"44","Belgium","Australia",996
+"45","Belgium","Austria",1078
+"46","Belgium","Canada",4257
+"47","Belgium","Chile",150
+"48","Belgium","Denmark",856
+"49","Belgium","Finland",1173
+"50","Belgium","France",17273
+"51","Belgium","Germany",9605
+"52","Belgium","Ireland",16135
+"53","Belgium","Italy",2919
+"54","Belgium","Japan",731
+"55","Belgium","Korea",328
+"56","Belgium","Mexico",181
+"57","Belgium","Netherlands",29032
+"58","Belgium","Portugal",486
+"59","Belgium","Spain",6508
+"60","Belgium","Sweden",669
+"61","Belgium","Switzerland",1336
+"62","Belgium","Turkey",374
+"63","Belgium","United Kingdom",23766
+"64","Belgium","United States",11884
+"65","Brazil","Canada",333
+"66","Brazil","Chile",36323
+"67","Brazil","France",1197
+"68","Brazil","Germany",748
+"69","Brazil","Mexico",268
+"70","Brazil","Netherlands",476
+"71","Brazil","Spain",814
+"72","Brazil","Sweden",170
+"73","Brazil","Switzerland",1732
+"74","Brazil","United Kingdom",11229
+"75","Brazil","United States",23751
+"76","Canada","Australia",29835.391
+"77","Canada","Austria",2007.838
+"78","Canada","Belgium",2430.025
+"79","Canada","Chinese Taipei",957.137
+"80","Canada","Denmark",1908.586
+"81","Canada","Finland",2351.343
+"82","Canada","France",28284.124
+"83","Canada","Germany",24252.522
+"84","Canada","Ireland",46355.629
+"85","Canada","Italy",590.795
+"86","Canada","Japan",60591.305
+"87","Canada","Korea",1745.801
+"88","Canada","Netherlands",8756.482
+"89","Canada","Spain",1514.494
+"90","Canada","Sweden",5900.302
+"91","Canada","United Kingdom",219352.418
+"92","Canada","United States",1677762.023
+"93","Chile","Brazil",913.757
+"94","Chile","Denmark",125.493
+"95","Chile","France",495.882
+"96","Chile","Mexico",217.614
+"97","Chile","Spain",581.473
+"98","Chile","United Kingdom",3088.234
+"99","Chile","United States",8158.918
+"100","Chinese Taipei","Australia",25199
+"101","Chinese Taipei","Austria",594
+"102","Chinese Taipei","Belgium",208
+"103","Chinese Taipei","Canada",4741
+"104","Chinese Taipei","Chile",1281
+"105","Chinese Taipei","Denmark",213
+"106","Chinese Taipei","Finland",137
+"107","Chinese Taipei","France",9914
+"108","Chinese Taipei","Germany",2397
+"109","Chinese Taipei","Ireland",1292
+"110","Chinese Taipei","Italy",235
+"111","Chinese Taipei","Japan",35713
+"112","Chinese Taipei","Korea",14149
+"113","Chinese Taipei","Mexico",657
+"114","Chinese Taipei","Netherlands",5146
+"115","Chinese Taipei","Spain",706
+"116","Chinese Taipei","Sweden",538
+"117","Chinese Taipei","Switzerland",905
+"118","Chinese Taipei","Turkey",180
+"119","Chinese Taipei","United Kingdom",11585
+"120","Chinese Taipei","United States",83030
+"121","Denmark","Australia",142
+"122","Denmark","Austria",263
+"123","Denmark","Belgium",614
+"124","Denmark","Canada",319
+"125","Denmark","Finland",35455
+"126","Denmark","France",9808
+"127","Denmark","Germany",43553
+"128","Denmark","Ireland",6296
+"129","Denmark","Italy",416
+"130","Denmark","Japan",300
+"131","Denmark","Mexico",147
+"132","Denmark","Netherlands",7142
+"133","Denmark","Portugal",175
+"134","Denmark","Spain",887
+"135","Denmark","Sweden",93543
+"136","Denmark","Switzerland",2361
+"137","Denmark","Turkey",675
+"138","Denmark","United Kingdom",23677
+"139","Denmark","United States",11315
+"140","Finland","Australia",332
+"141","Finland","Austria",724
+"142","Finland","Belgium",2512
+"143","Finland","Canada",3280
+"144","Finland","France",4362
+"145","Finland","Germany",8082
+"146","Finland","Ireland",544
+"147","Finland","Japan",219
+"148","Finland","Korea",146
+"149","Finland","Netherlands",2403
+"150","Finland","Portugal",171
+"151","Finland","Spain",281
+"152","Finland","Switzerland",799
+"153","Finland","Turkey",233
+"154","Finland","United Kingdom",4180
+"155","France","Australia",30133
+"156","France","Austria",10004
+"157","France","Belgium",274711
+"158","France","Brazil",23673
+"159","France","Canada",44932
+"160","France","Chile",4374
+"161","France","Chinese Taipei",20952
+"162","France","Denmark",11318
+"163","France","Finland",20902
+"164","France","Germany",204557
+"165","France","Greece",1401
+"166","France","Ireland",53472
+"167","France","Italy",358611
+"168","France","Japan",204994
+"169","France","Korea",27604
+"170","France","Mexico",10013
+"171","France","Netherlands",104916
+"172","France","Portugal",22972
+"173","France","Spain",112857
+"174","France","Sweden",33245
+"175","France","Switzerland",89598
+"176","France","Turkey",22757
+"177","France","United Kingdom",243357
+"178","France","United States",569541
+"179","Germany","Australia",26216
+"180","Germany","Austria",54990
+"181","Germany","Belgium",26004
+"182","Germany","Brazil",5474
+"183","Germany","Canada",41895
+"184","Germany","Chile",2751
+"185","Germany","Chinese Taipei",1919
+"186","Germany","Denmark",12926
+"187","Germany","Finland",20163
+"188","Germany","France",165854
+"189","Germany","Greece",20773
+"190","Germany","Ireland",37004
+"191","Germany","Italy",80164
+"192","Germany","Japan",25730
+"193","Germany","Korea",12725
+"194","Germany","Mexico",4914
+"195","Germany","Netherlands",112175
+"196","Germany","Portugal",7704
+"197","Germany","Spain",70638
+"198","Germany","Sweden",32054
+"199","Germany","Switzerland",76363
+"200","Germany","Turkey",13446
+"201","Germany","United Kingdom",208021
+"202","Germany","United States",421043
+"203","Greece","Australia",101
+"204","Greece","Austria",128
+"205","Greece","Belgium",277
+"206","Greece","Finland",143
+"207","Greece","France",1917
+"208","Greece","Germany",4217
+"209","Greece","Ireland",13708
+"210","Greece","Italy",7886
+"211","Greece","Netherlands",831
+"212","Greece","Portugal",451
+"213","Greece","Spain",4256
+"214","Greece","Switzerland",166
+"215","Greece","United Kingdom",5916
+"216","Greece","United States",1349
+"217","Ireland","Australia",750.025
+"218","Ireland","Austria",175.575
+"219","Ireland","Belgium",774.432
+"220","Ireland","Canada",2020.823
+"221","Ireland","Denmark",424.993
+"222","Ireland","Finland",418.194
+"223","Ireland","France",6955.004
+"224","Ireland","Germany",1443.205
+"225","Ireland","Italy",618.684
+"226","Ireland","Netherlands",1788.096
+"227","Ireland","Portugal",1111.162
+"228","Ireland","Spain",3664.784
+"229","Ireland","Sweden",1049.69
+"230","Ireland","Switzerland",330.875
+"231","Ireland","United Kingdom",65526.152
+"232","Ireland","United States",8092.93
+"233","Italy","Australia",2991.553
+"234","Italy","Austria",105348.676
+"235","Italy","Belgium",11006.914
+"236","Italy","Brazil",1780.982
+"237","Italy","Canada",2963.707
+"238","Italy","Chile",724.968
+"239","Italy","Denmark",1506.582
+"240","Italy","Finland",2537.518
+"241","Italy","France",75637.939
+"242","Italy","Germany",201215.72
+"243","Italy","Greece",1292.12
+"244","Italy","Ireland",20727.049
+"245","Italy","Japan",19368.685
+"246","Italy","Korea",3448.585
+"247","Italy","Mexico",1883.327
+"248","Italy","Netherlands",16725.058
+"249","Italy","Portugal",7420.513
+"250","Italy","Spain",84437.751
+"251","Italy","Sweden",2692.359
+"252","Italy","Switzerland",22468.442
+"253","Italy","Turkey",6112.351
+"254","Italy","United Kingdom",44074.16
+"255","Italy","United States",65601.781
+"256","Japan","Australia",148878.7
+"257","Japan","Austria",7544.7
+"258","Japan","Belgium",40503.5
+"259","Japan","Brazil",19192.5
+"260","Japan","Canada",95991
+"261","Japan","Chile",7528.9
+"262","Japan","Chinese Taipei",41641.4
+"263","Japan","Denmark",24258.4
+"264","Japan","Finland",7511
+"265","Japan","France",193880.8
+"266","Japan","Germany",108855
+"267","Japan","Greece",306.8
+"268","Japan","Ireland",76350.5
+"269","Japan","Italy",51621.3
+"270","Japan","Korea",39976.8
+"271","Japan","Mexico",19412
+"272","Japan","Netherlands",86758.3
+"273","Japan","Portugal",1414.6
+"274","Japan","Spain",42806.9
+"275","Japan","Sweden",13607.2
+"276","Japan","Switzerland",35227.2
+"277","Japan","Turkey",7852.2
+"278","Japan","United Kingdom",240886.3
+"279","Japan","United States",1961952.4
+"280","Korea","Australia",5063.658
+"281","Korea","Austria",529.261
+"282","Korea","Belgium",441.573
+"283","Korea","Brazil",2235.717
+"284","Korea","Canada",6313.116
+"285","Korea","Chile",400.92
+"286","Korea","Chinese Taipei",1362.973
+"287","Korea","Denmark",156.865
+"288","Korea","Finland",131.437
+"289","Korea","France",1322.679
+"290","Korea","Germany",2927.655
+"291","Korea","Greece",1671.683
+"292","Korea","Ireland",1187.563
+"293","Korea","Italy",480.537
+"294","Korea","Japan",17730.331
+"295","Korea","Mexico",2446.897
+"296","Korea","Netherlands",1127.9
+"297","Korea","Spain",497.146
+"298","Korea","Sweden",225.13
+"299","Korea","Switzerland",1185.294
+"300","Korea","Turkey",2429.823
+"301","Korea","United Kingdom",6978.658
+"302","Korea","United States",51658.837
+"303","Mexico","Canada",330.764
+"304","Mexico","Germany",854.958
+"305","Mexico","Japan",303.492
+"306","Mexico","Spain",152.882
+"307","Mexico","United States",3341.921
+"308","Netherlands","Austria",8523.531
+"309","Netherlands","Canada",19292.078
+"310","Netherlands","Denmark",4606.454
+"311","Netherlands","Finland",7663.49
+"312","Netherlands","France",105521.277
+"313","Netherlands","Germany",202948.511
+"314","Netherlands","Ireland",47949.756
+"315","Netherlands","Italy",23258.717
+"316","Netherlands","Japan",9476.281
+"317","Netherlands","Portugal",1427.884
+"318","Netherlands","Spain",50971.485
+"319","Netherlands","Sweden",5267.734
+"320","Netherlands","Switzerland",33344.153
+"321","Netherlands","United Kingdom",95282.52
+"322","Netherlands","United States",257123.225
+"323","Portugal","Austria",256.001
+"324","Portugal","Belgium",1038.877
+"325","Portugal","Brazil",1433.91
+"326","Portugal","Canada",154.636
+"327","Portugal","Denmark",323.842
+"328","Portugal","Finland",370.547
+"329","Portugal","France",8457.595
+"330","Portugal","Germany",3229.396
+"331","Portugal","Greece",377.538
+"332","Portugal","Ireland",2820.478
+"333","Portugal","Italy",9574.416
+"334","Portugal","Japan",188.358
+"335","Portugal","Mexico",228.18
+"336","Portugal","Netherlands",2743.761
+"337","Portugal","Spain",17997.495
+"338","Portugal","Sweden",219.14
+"339","Portugal","Switzerland",1949.765
+"340","Portugal","Turkey",235.538
+"341","Portugal","United Kingdom",2270.545
+"342","Portugal","United States",2924.782
+"343","Spain","Australia",3072.67
+"344","Spain","Austria",5383.653
+"345","Spain","Belgium",6616.626
+"346","Spain","Brazil",153925.153
+"347","Spain","Canada",5906.456
+"348","Spain","Chile",63043.838
+"349","Spain","Chinese Taipei",1900.894
+"350","Spain","Denmark",5193.585
+"351","Spain","Finland",5640.282
+"352","Spain","France",83291.261
+"353","Spain","Germany",96041.454
+"354","Spain","Greece",217.687
+"355","Spain","Ireland",27173.893
+"356","Spain","Italy",103568.819
+"357","Spain","Japan",9346.702
+"358","Spain","Korea",789.499
+"359","Spain","Mexico",185927.82
+"360","Spain","Netherlands",19069.946
+"361","Spain","Portugal",133102.387
+"362","Spain","Sweden",7580.454
+"363","Spain","Switzerland",11856.1
+"364","Spain","Turkey",52639.798
+"365","Spain","United Kingdom",511954.822
+"366","Spain","United States",219193.97
+"367","Sweden","Australia",122.053
+"368","Sweden","Austria",864.45
+"369","Sweden","Belgium",775.746
+"370","Sweden","Brazil",2439.199
+"371","Sweden","Canada",720.032
+"372","Sweden","Chile",314.773
+"373","Sweden","Denmark",30723.381
+"374","Sweden","Finland",50365.435
+"375","Sweden","France",2039.271
+"376","Sweden","Germany",13566.301
+"377","Sweden","Ireland",4848.546
+"378","Sweden","Italy",308.087
+"379","Sweden","Japan",687.617
+"380","Sweden","Mexico",483.664
+"381","Sweden","Netherlands",13209.241
+"382","Sweden","Portugal",237.669
+"383","Sweden","Spain",888.875
+"384","Sweden","Switzerland",1514.785
+"385","Sweden","Turkey",669.919
+"386","Sweden","United Kingdom",47824.112
+"387","Sweden","United States",32234.337
+"388","Switzerland","Australia",14535.579
+"389","Switzerland","Austria",11252.875
+"390","Switzerland","Belgium",6368.804
+"391","Switzerland","Brazil",5139.453
+"392","Switzerland","Canada",21072.869
+"393","Switzerland","Chile",1952.288
+"394","Switzerland","Chinese Taipei",10320.799
+"395","Switzerland","Denmark",3364.217
+"396","Switzerland","Finland",4111.038
+"397","Switzerland","France",67789.569
+"398","Switzerland","Germany",74551.945
+"399","Switzerland","Greece",1141.304
+"400","Switzerland","Ireland",24275.745
+"401","Switzerland","Italy",18986.817
+"402","Switzerland","Japan",15925.597
+"403","Switzerland","Korea",13988.127
+"404","Switzerland","Mexico",3687.17
+"405","Switzerland","Netherlands",20899.412
+"406","Switzerland","Portugal",2234.651
+"407","Switzerland","Spain",9267.894
+"408","Switzerland","Sweden",7699.596
+"409","Switzerland","Turkey",4778.11
+"410","Switzerland","United Kingdom",168674.116
+"411","Switzerland","United States",567296.403
+"412","Turkey","Austria",349.041
+"413","Turkey","France",654.14
+"414","Turkey","Germany",2726.557
+"415","Turkey","Netherlands",939.156
+"416","Turkey","Switzerland",567.542
+"417","Turkey","United Kingdom",6026.169
+"418","Turkey","United States",6525.659
+"419","United Kingdom","Australia",73690
+"420","United Kingdom","Austria",5081
+"421","United Kingdom","Belgium",6283
+"422","United Kingdom","Brazil",30666
+"423","United Kingdom","Canada",136274
+"424","United Kingdom","Chile",1775
+"425","United Kingdom","Chinese Taipei",62392
+"426","United Kingdom","Denmark",6406
+"427","United Kingdom","Finland",5338
+"428","United Kingdom","France",351742
+"429","United Kingdom","Germany",192164
+"430","United Kingdom","Greece",3925
+"431","United Kingdom","Ireland",72211
+"432","United Kingdom","Italy",16356
+"433","United Kingdom","Japan",183561
+"434","United Kingdom","Korea",97326
+"435","United Kingdom","Mexico",31953
+"436","United Kingdom","Netherlands",58408
+"437","United Kingdom","Portugal",1057
+"438","United Kingdom","Spain",21497
+"439","United Kingdom","Sweden",13516
+"440","United Kingdom","Switzerland",77633
+"441","United Kingdom","Turkey",11158
+"442","United Kingdom","United States",1175211
+"443","United States","Australia",146190
+"444","United States","Austria",8028
+"445","United States","Belgium",27667
+"446","United States","Brazil",82669
+"447","United States","Canada",187857
+"448","United States","Chile",9934
+"449","United States","Chinese Taipei",70382
+"450","United States","Denmark",7007
+"451","United States","Finland",8789
+"452","United States","France",250591
+"453","United States","Germany",365071
+"454","United States","Greece",3150
+"455","United States","Ireland",112405
+"456","United States","Italy",50913
+"457","United States","Japan",397944
+"458","United States","Korea",103121
+"459","United States","Mexico",96736
+"460","United States","Netherlands",60380
+"461","United States","Portugal",3777
+"462","United States","Spain",38105
+"463","United States","Sweden",25229
+"464","United States","Switzerland",64640
+"465","United States","Turkey",11225
+"466","United States","United Kingdom",512010
